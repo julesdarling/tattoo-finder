@@ -1,100 +1,89 @@
-import { Icon } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import { useEffect, useState } from 'react';
+import L from 'leaflet';
 import { MapContainer, Marker, Popup, TileLayer, useMap } from 'react-leaflet';
+import { useEffect } from 'react';
 import type { TattooRecord } from '../lib/schema';
-import { sourceLabel } from '../lib/recordMeta';
-import { cn } from '../lib/cn';
-
-const markerIcon = new Icon({
-  iconUrl:
-    'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="26" height="34" viewBox="0 0 26 34"><path fill="%23d9a915" stroke="%2324211a" stroke-width="2" d="M13 32s11-11.2 11-19A11 11 0 1 0 2 13c0 7.8 11 19 11 19Z"/><circle cx="13" cy="13" r="4.2" fill="%2324211a"/></svg>',
-  iconSize: [26, 34],
-  iconAnchor: [13, 34],
-  popupAnchor: [0, -30],
-});
+import { bookingLabel } from '../lib/recordMeta';
 
 type MapPanelProps = {
   records: TattooRecord[];
-  selectedId: string | null;
+  selectedId?: string | null;
   onSelect: (record: TattooRecord) => void;
 };
 
+const markerIcon = (selected: boolean) =>
+  L.divIcon({
+    className: selected ? 'pin-marker is-selected' : 'pin-marker',
+    html: '<span></span>',
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+  });
+
 export function MapPanel({ records, selectedId, onSelect }: MapPanelProps) {
-  const selected = records.find((record) => record.id === selectedId) ?? records[0];
-  const center: [number, number] = selected ? [selected.lat, selected.lng] : [37.7749, -122.4194];
-  const visibleRecords = records;
-  const [tileFailed, setTileFailed] = useState(false);
+  const center: [number, number] = records.length
+    ? [average(records.map((record) => record.lat)), average(records.map((record) => record.lng))]
+    : [37.7749, -122.4194];
 
   return (
-    <section className="map-shell" aria-label="Bay Area map" role="region">
-      <MapContainer center={center} zoom={9} scrollWheelZoom={false} className="leaflet-map">
-        <ResizeInvalidator watchKey={`${records.length}-${selectedId ?? 'none'}`} />
+    <div className="map-panel" data-testid="map-panel">
+      <MapContainer center={center} zoom={records.length ? 9 : 10} scrollWheelZoom className="leaflet-map">
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          eventHandlers={{
-            tileerror: () => setTileFailed(true),
-            tileload: () => setTileFailed(false),
-          }}
-          url="https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        {visibleRecords.map((record) => (
+        <InvalidateMapSize />
+        <FitBounds records={records} />
+        {records.slice(0, 300).map((record) => (
           <Marker
             key={record.id}
             position={[record.lat, record.lng]}
-            icon={markerIcon}
+            icon={markerIcon(record.id === selectedId)}
             eventHandlers={{ click: () => onSelect(record) }}
           >
             <Popup>
               <strong>{record.name}</strong>
               <br />
-              {record.city}
+              {record.city}, {record.region}
+              <br />
+              {bookingLabel(record)}
             </Popup>
           </Marker>
         ))}
       </MapContainer>
-      <div className="map-index" aria-label="Map record index">
-        {visibleRecords.slice(0, 8).map((record) => (
-          <button
-            key={record.id}
-            type="button"
-            className={cn('map-chip', selectedId === record.id && 'is-active')}
-            onClick={() => onSelect(record)}
-          >
-            <span>{record.name}</span>
-            <small>{sourceLabel(record)}</small>
-          </button>
-        ))}
-      </div>
-      {tileFailed ? (
-        <div className="map-warning" role="status">
-          Map tiles are unavailable. Pins and source links are still usable.
-        </div>
-      ) : null}
-    </section>
+      <div className="map-count">{records.length} mapped</div>
+    </div>
   );
 }
 
-function ResizeInvalidator({ watchKey }: { watchKey: string }) {
+function InvalidateMapSize() {
   const map = useMap();
-
   useEffect(() => {
-    const invalidate = () => map.invalidateSize({ pan: false });
-    const timeout = window.setTimeout(invalidate, 0);
     const container = map.getContainer();
-
-    if (!('ResizeObserver' in window)) {
-      return () => window.clearTimeout(timeout);
-    }
-
-    const observer = new ResizeObserver(invalidate);
-    observer.observe(container);
+    let frame = window.requestAnimationFrame(() => map.invalidateSize());
+    const resizeObserver = new ResizeObserver(() => {
+      window.cancelAnimationFrame(frame);
+      frame = window.requestAnimationFrame(() => map.invalidateSize());
+    });
+    resizeObserver.observe(container);
 
     return () => {
-      window.clearTimeout(timeout);
-      observer.disconnect();
+      window.cancelAnimationFrame(frame);
+      resizeObserver.disconnect();
     };
-  }, [map, watchKey]);
-
+  }, [map]);
   return null;
+}
+
+function FitBounds({ records }: { records: TattooRecord[] }) {
+  const map = useMap();
+  useEffect(() => {
+    if (!records.length) return;
+    const bounds = L.latLngBounds(records.slice(0, 300).map((record) => [record.lat, record.lng]));
+    map.fitBounds(bounds, { padding: [32, 32], maxZoom: 12 });
+  }, [map, records]);
+  return null;
+}
+
+function average(values: number[]) {
+  return values.reduce((sum, value) => sum + value, 0) / values.length;
 }

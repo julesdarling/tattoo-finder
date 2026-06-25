@@ -1,48 +1,42 @@
-import { Filter, LocateFixed, RotateCcw, SlidersHorizontal } from 'lucide-react';
+import { SlidersHorizontal, X } from 'lucide-react';
 import type { Filters, SortMode } from '../lib/search';
-import type { TattooRecord } from '../lib/schema';
-import { regionOrder } from '../lib/recordMeta';
+import type { BayRegion, TattooRecord } from '../lib/schema';
 import { cn } from '../lib/cn';
 
 type FilterPanelProps = {
   filters: Filters;
   styles: string[];
-  cities: string[];
-  onChange: (filters: Filters) => void;
-  onLocate: () => void;
+  onChange: (next: Partial<Filters>) => void;
   onReset: () => void;
-  geoError?: string | null;
+  open?: boolean;
+  onClose?: () => void;
 };
 
-export function FilterPanel({
-  filters,
-  styles,
-  cities,
-  onChange,
-  onLocate,
-  onReset,
-  geoError,
-}: FilterPanelProps) {
-  const update = <K extends keyof Filters>(key: K, value: Filters[K]) =>
-    onChange({ ...filters, [key]: value });
+const regions: Array<BayRegion | 'All'> = ['All', 'SF', 'East Bay', 'North Bay', 'Peninsula', 'South Bay'];
+const sorts: SortMode[] = ['recommended', 'portfolio', 'distance', 'confidence', 'name'];
+const kinds: Array<TattooRecord['kind'] | 'all'> = ['all', 'artist', 'studio'];
 
+export function FilterPanel({ filters, styles, onChange, onReset, open, onClose }: FilterPanelProps) {
   return (
-    <aside className="filter-panel" aria-label="Filters">
+    <aside className={cn('filter-panel', open && 'is-open')} aria-label="Filters">
       <div className="panel-title">
-        <SlidersHorizontal size={18} aria-hidden="true" />
-        <span>Sort the field</span>
+        <span>
+          <SlidersHorizontal size={18} aria-hidden="true" />
+          Filters
+        </span>
+        {onClose ? (
+          <button className="icon-button" type="button" onClick={onClose} aria-label="Close filters">
+            <X size={18} aria-hidden="true" />
+          </button>
+        ) : null}
       </div>
 
       <label className="field">
         <span>Region</span>
-        <select
-          value={filters.region}
-          onChange={(event) => update('region', event.target.value as Filters['region'])}
-        >
-          <option value="All">All Bay Area</option>
-          {regionOrder.map((region) => (
+        <select value={filters.where} onChange={(event) => onChange({ where: event.target.value as BayRegion | 'All' })}>
+          {regions.map((region) => (
             <option key={region} value={region}>
-              {region}
+              {region === 'All' ? 'All Bay Area' : region}
             </option>
           ))}
         </select>
@@ -50,120 +44,59 @@ export function FilterPanel({
 
       <label className="field">
         <span>Style</span>
-        <select value={filters.style} onChange={(event) => update('style', event.target.value)}>
-          <option value="All">All styles</option>
-          {styles.map((style) => (
-            <option key={style} value={style}>
-              {style}
-            </option>
-          ))}
-        </select>
-      </label>
-
-      <label className="field">
-        <span>City</span>
-        <select value={filters.q} onChange={(event) => update('q', event.target.value)}>
-          <option value="">Any city or name</option>
-          {cities.map((city) => (
-            <option key={city} value={city}>
-              {city}
-            </option>
+        <select value={filters.style} onChange={(event) => onChange({ style: event.target.value })}>
+          {['All', ...styles].map((style) => (
+            <option key={style}>{style}</option>
           ))}
         </select>
       </label>
 
       <label className="field">
         <span>Sort</span>
-        <select
-          value={filters.sort}
-          onChange={(event) => update('sort', event.target.value as SortMode)}
-        >
-          <option value="recommended">Recommended</option>
-          <option value="distance">Distance</option>
-          <option value="confidence">Source confidence</option>
-          <option value="name">Name</option>
+        <select value={filters.sort} onChange={(event) => onChange({ sort: event.target.value as SortMode })}>
+          {sorts.map((sort) => (
+            <option key={sort} value={sort}>
+              {sort === 'recommended' ? 'Recommended' : sort[0].toUpperCase() + sort.slice(1)}
+            </option>
+          ))}
+        </select>
+      </label>
+
+      <label className="field">
+        <span>Type</span>
+        <select value={filters.kind} onChange={(event) => onChange({ kind: event.target.value as TattooRecord['kind'] | 'all' })}>
+          {kinds.map((kind) => (
+            <option key={kind} value={kind}>
+              {kind === 'all' ? 'Artists and studios' : kind[0].toUpperCase() + kind.slice(1)}
+            </option>
+          ))}
         </select>
       </label>
 
       <label className="field">
         <span>Distance radius</span>
-        <input
-          type="range"
-          min="5"
-          max="100"
-          step="5"
-          value={filters.radius}
-          onChange={(event) => update('radius', Number(event.target.value))}
-        />
+        <input type="range" min="5" max="90" step="5" value={filters.radius} onChange={(event) => onChange({ radius: Number(event.target.value) })} />
         <small>{filters.radius} miles</small>
       </label>
 
-      <div className="toggle-grid" aria-label="Quick filters">
-        <ToggleButton
-          active={filters.openBooks}
-          onClick={() => update('openBooks', !filters.openBooks)}
-        >
-          Known open
-        </ToggleButton>
-        <ToggleButton
-          active={filters.verifiedOnly}
-          onClick={() => update('verifiedOnly', !filters.verifiedOnly)}
-        >
+      <div className="toggle-grid">
+        <button className={cn(filters.openBooks && 'is-active')} type="button" aria-pressed={filters.openBooks} onClick={() => onChange({ openBooks: !filters.openBooks })}>
+          Open status
+        </button>
+        <button className={cn(filters.mediaOnly && 'is-active')} type="button" aria-pressed={filters.mediaOnly} onClick={() => onChange({ mediaOnly: !filters.mediaOnly })}>
+          Has portfolio
+        </button>
+        <button className={cn(filters.verifiedOnly && 'is-active')} type="button" aria-pressed={filters.verifiedOnly} onClick={() => onChange({ verifiedOnly: !filters.verifiedOnly })}>
           Source verified
-        </ToggleButton>
-        <ToggleButton
-          active={filters.savedOnly}
-          onClick={() => update('savedOnly', !filters.savedOnly)}
-        >
+        </button>
+        <button className={cn(filters.savedOnly && 'is-active')} type="button" aria-pressed={filters.savedOnly} onClick={() => onChange({ savedOnly: !filters.savedOnly })}>
           Saved only
-        </ToggleButton>
-        <ToggleButton
-          active={filters.kind === 'artist'}
-          onClick={() =>
-            update('kind', filters.kind === 'artist' ? 'all' : ('artist' as TattooRecord['kind']))
-          }
-        >
-          Artists
-        </ToggleButton>
-      </div>
-
-      <div className="filter-actions">
-        <button className="button button-light" type="button" onClick={onLocate}>
-          <LocateFixed size={16} aria-hidden="true" />
-          Use my location
-        </button>
-        <button className="icon-button" type="button" onClick={onReset} aria-label="Reset filters">
-          <RotateCcw size={17} aria-hidden="true" />
         </button>
       </div>
 
-      {geoError ? <p className="inline-error">{geoError}</p> : null}
-      <p className="data-note">
-        Permit-only records are discovery seeds. Confirm portfolio, rates, and booking status with
-        the artist or studio before booking.
-      </p>
+      <button className="reset-button" type="button" onClick={onReset}>
+        Reset filters
+      </button>
     </aside>
-  );
-}
-
-function ToggleButton({
-  active,
-  children,
-  onClick,
-}: {
-  active: boolean;
-  children: React.ReactNode;
-  onClick: () => void;
-}) {
-  return (
-    <button
-      className={cn('toggle-button', active && 'is-active')}
-      type="button"
-      aria-pressed={active}
-      onClick={onClick}
-    >
-      <Filter size={14} aria-hidden="true" />
-      {children}
-    </button>
   );
 }

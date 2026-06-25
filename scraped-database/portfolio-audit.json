@@ -1,0 +1,5722 @@
+{
+  "generatedAt": "2026-06-25",
+  "metrics": {
+    "totalRecords": 471,
+    "recordsWithPortfolioItems": 18,
+    "totalPortfolioItems": 79,
+    "directWebsiteImages": 45,
+    "instagramProfileLinks": 25,
+    "instagramPostLinks": 9,
+    "enrichedOfficialCandidates": 19,
+    "recordsStillNeedingManualVerification": 453,
+    "blockedSources": 15,
+    "duplicateRemovals": 9,
+    "brokenOrRejectedUrls": 46,
+    "bySource": {
+      "instagram": 34,
+      "officialWebsite": 45
+    },
+    "quarantinedPortfolioItems": 15
+  },
+  "records": [
+    {
+      "recordId": "osm-node-8462205099-ndustr-al",
+      "name": "!ndustr!al",
+      "website": "https://www.openstreetmap.org/node/8462205099",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13760914882-13-bats-tattoo-and-piercing",
+      "name": "13 Bats Tattoo And Piercing",
+      "website": "https://www.thirteenbats.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.thirteenbats.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.thirteenbats.com/",
+          "status": 200,
+          "bytes": 74900,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0309490-29-11-tattoo",
+      "name": "29:11 Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309490",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4370393292-7th-son",
+      "name": "7th Son",
+      "website": "https://www.openstreetmap.org/node/4370393292",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6435975113-9-dragons-ink",
+      "name": "9 Dragons Ink",
+      "website": "https://www.9dragonsink.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.9dragonsink.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-8759011760-ace",
+      "name": "Ace",
+      "website": "https://www.openstreetmap.org/node/8759011760",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290912-aces-tattoo",
+      "name": "Aces Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290912",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311652-adi-mizrahi",
+      "name": "Adi Mizrahi",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311652",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306517-adriana-elfida-garcia",
+      "name": "Adriana Elfida Garcia",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306517",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308649-adrienne-le",
+      "name": "Adrienne Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308649",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302239-alan-pham",
+      "name": "Alan Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302239",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301103-alejandra-sandoval-veloz",
+      "name": "Alejandra Sandoval Veloz",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301103",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310499-alex-arizaga-torrez",
+      "name": "Alex Arizaga Torrez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310499",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311491-alexander-james-stramel",
+      "name": "Alexander James Stramel",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311491",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13402092902-algood-ink-tattoo",
+      "name": "Algood Ink Tattoo",
+      "website": "https://www.openstreetmap.org/node/13402092902",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310781-alison-do",
+      "name": "Alison Do",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310781",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5695536648-always-create",
+      "name": "Always Create",
+      "website": "https://www.openstreetmap.org/node/5695536648",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303659-always-create-tattoo-studio",
+      "name": "Always Create Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303659",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302778-alyanah-c-alcantara",
+      "name": "Alyanah C Alcantara",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302778",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301879-amanda-marie-herring",
+      "name": "Amanda Marie Herring",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301879",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306241-amanda-trippler",
+      "name": "Amanda Trippler",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306241",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311352-amilee-jean-duyanen",
+      "name": "Amilee Jean Duyanen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311352",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4684901055-amor-eterno",
+      "name": "Amor Eterno",
+      "website": "https://www.openstreetmap.org/node/4684901055",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310333-amy-ann-hufford",
+      "name": "Amy Ann Hufford",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310333",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-686401369-anchor-tattoo",
+      "name": "Anchor Tattoo",
+      "website": "https://www.openstreetmap.org/way/686401369",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11105721271-ancient-inc-tattoos",
+      "name": "Ancient Inc Tattoos",
+      "website": "https://www.openstreetmap.org/node/11105721271",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310677-andrea-flores",
+      "name": "Andrea Flores",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310677",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0261199-andy-johnson",
+      "name": "Andy Johnson",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0261199",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302777-angelica-khristine-tingin",
+      "name": "Angelica Khristine Tingin",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302777",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300553-angelique-alize-avila",
+      "name": "Angelique Alize Avila",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300553",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303672-angie-villanueva",
+      "name": "Angie Villanueva",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303672",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301220-anh-q-nguyen",
+      "name": "Anh Q. Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301220",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0287772-anne-michelle-lindstrom",
+      "name": "Anne Michelle Lindstrom",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0287772",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301940-ants-tattoo",
+      "name": "Ants Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301940",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0266351-ariel-cruz",
+      "name": "Ariel Cruz",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0266351",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310790-arise-ink-tattoo-studio",
+      "name": "Arise Ink Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310790",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4077146724-art-of-the-heart-tattoo",
+      "name": "Art Of The Heart Tattoo",
+      "website": "https://www.artofthehearttattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.artofthehearttattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.artofthehearttattoo.com/",
+          "status": 200,
+          "bytes": 56350,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 5,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "scc-fa0282308-art-of-the-heart-tattoo",
+      "name": "Art Of The Heart Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0282308",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11311049488-artistic-ink",
+      "name": "Artistic Ink",
+      "website": "https://www.openstreetmap.org/node/11311049488",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-386834472-bad-boy-tattoo",
+      "name": "Bad Boy Tattoo",
+      "website": "https://www.openstreetmap.org/way/386834472",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5380007322-bay-area-inkscape",
+      "name": "Bay Area Inkscape",
+      "website": "https://www.openstreetmap.org/node/5380007322",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310564-benjamin-nguyen",
+      "name": "Benjamin Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310564",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8105025455-berkeley-tattoo",
+      "name": "Berkeley Tattoo",
+      "website": "https://www.berkeleytattoo.org/",
+      "candidateUrls": [
+        {
+          "url": "https://www.berkeleytattoo.org/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.berkeleytattoo.org/"
+      ]
+    },
+    {
+      "recordId": "osm-node-10936313578-best-day-ever-tattoo",
+      "name": "Best Day Ever Tattoo",
+      "website": "https://www.openstreetmap.org/node/10936313578",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-10605374743-black-blue-tattoo",
+      "name": "Black & Blue Tattoo",
+      "website": "https://www.openstreetmap.org/node/10605374743",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13768629905-black-blue-tattoo",
+      "name": "Black & Blue Tattoo",
+      "website": "https://www.blackandbluetattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.blackandbluetattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.blackandbluetattoo.com/"
+      ]
+    },
+    {
+      "recordId": "osm-way-112757636-black-heart-tattoo",
+      "name": "Black Heart Tattoo",
+      "website": "https://www.blackhearttattoosf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.blackhearttattoosf.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.blackhearttattoosf.com/"
+      ]
+    },
+    {
+      "recordId": "osm-node-12242477128-black-lantern-tattoo",
+      "name": "Black Lantern Tattoo",
+      "website": "https://www.openstreetmap.org/node/12242477128",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4880267580-black-pearl",
+      "name": "Black Pearl",
+      "website": "https://www.openstreetmap.org/node/4880267580",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-206844156-black-rose-tattoo-parlor",
+      "name": "Black Rose Tattoo Parlor",
+      "website": "https://www.facebook.com/theblackrosetattooparlor",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "skipped social-only website"
+      ]
+    },
+    {
+      "recordId": "osm-node-10302060598-black-sea-tattoo",
+      "name": "Black Sea Tattoo",
+      "website": "https://www.openstreetmap.org/node/10302060598",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-10555829851-black-serum",
+      "name": "Black Serum",
+      "website": "https://www.openstreetmap.org/node/10555829851",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11105721303-black-widow-tattoo-studio",
+      "name": "Black Widow Tattoo Studio",
+      "website": "https://www.openstreetmap.org/node/11105721303",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311490-blackmoor-tattoo-studio",
+      "name": "Blackmoor Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311490",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4908438069-blacksuit-tattoo",
+      "name": "Blacksuit Tattoo",
+      "website": "https://www.blacksuittattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.blacksuittattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0283355-blacksuit-tattoo",
+      "name": "Blacksuit Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0283355",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3235757580-blood-alley",
+      "name": "Blood Alley",
+      "website": "https://www.openstreetmap.org/node/3235757580",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0283681-blue-rose-tattoo",
+      "name": "Blue Rose Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0283681",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12816638430-body-manipulations",
+      "name": "Body Manipulations",
+      "website": "https://bodym.com/",
+      "candidateUrls": [
+        {
+          "url": "https://bodym.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://bodym.com/"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302582-branda-duong-hua",
+      "name": "Branda Duong Hua",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302582",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304967-brandon-ronald-leis",
+      "name": "Brandon Ronald Leis",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304967",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301871-brandon-shane-chiu",
+      "name": "Brandon Shane Chiu",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301871",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290559-breaking-boundaries-tattoo",
+      "name": "Breaking Boundaries Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290559",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311350-breana-cortez",
+      "name": "Breana Cortez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311350",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309817-briam-miller-maldonado-herrera-the-golden-oak-tattoo-studio",
+      "name": "Briam Miller Maldonado Herrera (the Golden Oak Tattoo Studio)",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309817",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309855-bryan-nguyen",
+      "name": "Bryan Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309855",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308575-bryanna-solano",
+      "name": "Bryanna Solano",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308575",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-1518988243-buddha-tattoo",
+      "name": "Buddha Tattoo",
+      "website": "https://www.openstreetmap.org/way/1518988243",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11853262053-buddha-s-palm-tattoo",
+      "name": "Buddha's Palm Tattoo",
+      "website": "https://www.openstreetmap.org/node/11853262053",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0264223-cali-stylz-tattoos",
+      "name": "Cali Stylz Tattoos",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0264223",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300339-cam-do",
+      "name": "Cam Do",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300339",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3382505777-capital-ink-tattoo",
+      "name": "Capital Ink Tattoo",
+      "website": "http://www.capitalinktattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.capitalinktattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0268654-carlos-ayala-jr",
+      "name": "Carlos Ayala Jr",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0268654",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0268555-carlos-espindola-roldan",
+      "name": "Carlos Espindola Roldan",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0268555",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309467-carlos-ivan-becerra",
+      "name": "Carlos Ivan Becerra",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309467",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13762439046-cash-only-tattoo",
+      "name": "Cash Only Tattoo",
+      "website": "https://www.openstreetmap.org/node/13762439046",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11374673835-castro-tattoo",
+      "name": "Castro Tattoo",
+      "website": "https://www.openstreetmap.org/node/11374673835",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0268478-chapter-tattoo",
+      "name": "Chapter Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0268478",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311281-charlene-marie-feliciano-pham",
+      "name": "Charlene Marie Feliciano Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311281",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311268-chase-austin-luna",
+      "name": "Chase Austin Luna",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311268",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0299527-chase-patrick-weggeland",
+      "name": "Chase Patrick Weggeland",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0299527",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304076-chloe-ruth-narancic",
+      "name": "Chloe Ruth Narancic",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304076",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311651-chris-carrasco",
+      "name": "Chris Carrasco",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311651",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307810-christopher-adam-gonzalez",
+      "name": "Christopher Adam Gonzalez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307810",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309711-claire-kim",
+      "name": "Claire Kim",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309711",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11423890607-cleopatra-ink",
+      "name": "Cleopatra Ink",
+      "website": "https://www.openstreetmap.org/node/11423890607",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13097250473-cleopatra-tattoo",
+      "name": "Cleopatra Tattoo",
+      "website": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+      "candidateUrls": [
+        {
+          "url": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+          "status": 200,
+          "bytes": 184866,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-11777394301-cloud95",
+      "name": "Cloud95",
+      "website": "https://www.cloud95sf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.cloud95sf.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.cloud95sf.com/",
+          "status": 404,
+          "bytes": 3312,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-6780093114-cold-steel",
+      "name": "Cold Steel",
+      "website": "https://www.coldsteelpiercing.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.coldsteelpiercing.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.coldsteelpiercing.com/"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265148-colin-baker",
+      "name": "Colin Baker",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265148",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302999-conviction-tattoo",
+      "name": "Conviction Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302999",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300448-coral-paul",
+      "name": "Coral Paul",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300448",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0289846-corey-nguyen",
+      "name": "Corey Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0289846",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12648197127-corvis-tattoo",
+      "name": "Corvis Tattoo",
+      "website": "https://www.openstreetmap.org/node/12648197127",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0288311-cristina-giron",
+      "name": "Cristina Giron",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0288311",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6496491408-crow-s-nest-tattoo",
+      "name": "Crow's Nest Tattoo",
+      "website": "https://www.openstreetmap.org/node/6496491408",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0291691-cruz-creations-tattoo",
+      "name": "Cruz Creations Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0291691",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0294457-crystal-kit-ping-le",
+      "name": "Crystal Kit Ping Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0294457",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265711-crystel-monique-vasquez",
+      "name": "Crystel Monique Vasquez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265711",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310354-cuauhtemoc-alejandro-daza",
+      "name": "Cuauhtemoc Alejandro Daza",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310354",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0269193-current-tattooing",
+      "name": "Current Tattooing",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0269193",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13841164650-cyclops-tattoo",
+      "name": "Cyclops Tattoo",
+      "website": "https://cyclopstattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://cyclopstattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://www.cyclopstattoo.com/",
+          "depth": 1,
+          "reason": "Artists"
+        },
+        {
+          "url": "https://cyclopstattoo.com/jasons-portfolio",
+          "depth": 1,
+          "reason": "Jason"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://cyclopstattoo.com/",
+          "status": 200,
+          "bytes": 55099,
+          "cache": "hit"
+        },
+        {
+          "url": "https://www.cyclopstattoo.com/",
+          "status": 200,
+          "bytes": 55040,
+          "cache": "hit"
+        },
+        {
+          "url": "https://www.cyclopstattoo.com/jasons-portfolio/",
+          "status": 200,
+          "bytes": 162024,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-2882781054-da-wei-tattoo",
+      "name": "Da Wei Tattoo",
+      "website": "https://www.openstreetmap.org/node/2882781054",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-706231376-damaged-lifestyle",
+      "name": "Damaged Lifestyle",
+      "website": "https://www.openstreetmap.org/way/706231376",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307221-dang-khoa-ho",
+      "name": "Dang Khoa Ho",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307221",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0305937-danh-truong-bui",
+      "name": "Danh Truong Bui",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0305937",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0268480-danny-sun",
+      "name": "Danny Sun",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0268480",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0260040-darius-agustin",
+      "name": "Darius Agustin",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0260040",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4583405663-dark-water",
+      "name": "Dark Water",
+      "website": "https://www.darkwater.ink/",
+      "candidateUrls": [
+        {
+          "url": "https://www.darkwater.ink/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.darkwater.ink/"
+      ]
+    },
+    {
+      "recordId": "scc-fa0294238-dat-nguyen",
+      "name": "Dat Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0294238",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0280341-david-mayorga",
+      "name": "David Mayorga",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0280341",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290890-davis-bui",
+      "name": "Davis Bui",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290890",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5125457881-death-before-dishonor-tatoos",
+      "name": "Death Before Dishonor - Tatoos",
+      "website": "https://www.openstreetmap.org/node/5125457881",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0277611-denise-d-wong",
+      "name": "Denise D. Wong",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0277611",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302959-derek-david-chan",
+      "name": "Derek David Chan",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302959",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304607-destin-trang",
+      "name": "Destin Trang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304607",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311351-devyn-huan-bui",
+      "name": "Devyn Huan Bui",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311351",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307069-diem-phuong-nguyen",
+      "name": "Diem Phuong Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307069",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3165906669-diving-swallow",
+      "name": "Diving Swallow",
+      "website": "https://www.openstreetmap.org/node/3165906669",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12748318699-dollhouse-tattoo-shop",
+      "name": "Dollhouse Tattoo Shop",
+      "website": "https://www.instagram.com/dollhouse.tattoo/",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 1,
+      "decisions": [
+        "stored official Instagram profile link without crawling Instagram"
+      ]
+    },
+    {
+      "recordId": "osm-node-12397141007-dougs-tattoos",
+      "name": "Dougs Tattoos",
+      "website": "https://www.openstreetmap.org/node/12397141007",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3986855423-dream-masters-custom-tattoos",
+      "name": "Dream Masters Custom Tattoos",
+      "website": "https://www.openstreetmap.org/node/3986855423",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0283004-drew-glover-burgy",
+      "name": "Drew Glover Burgy",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0283004",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290872-dung-kim-huynh",
+      "name": "Dung Kim Huynh",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290872",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290560-dung-vo",
+      "name": "Dung Vo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290560",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310673-dylan-zurahi-heredia",
+      "name": "Dylan Zurahi Heredia",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310673",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311110-dyllan-shipley",
+      "name": "Dyllan Shipley",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311110",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303193-eduardo-valencia",
+      "name": "Eduardo Valencia",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303193",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309646-eleven15-tattoo-studio",
+      "name": "Eleven15 Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309646",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303247-eleventh-dimension-tattoo-arts",
+      "name": "Eleventh Dimension Tattoo Arts",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303247",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310597-elijah-thomas",
+      "name": "Elijah Thomas",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310597",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303419-emily-li-he",
+      "name": "Emily Li He",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303419",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306210-emily-vanuy",
+      "name": "Emily Vanuy",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306210",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303081-emma-mayorga-torres",
+      "name": "Emma Mayorga Torres",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303081",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302406-emmanuel-torres",
+      "name": "Emmanuel Torres",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302406",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290778-enoc-de-la-rocha",
+      "name": "Enoc De La Rocha",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290778",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311054-ethan-kane-damron",
+      "name": "Ethan Kane Damron",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311054",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4548639069-everlasting-tattoo",
+      "name": "Everlasting Tattoo",
+      "website": "https://www.openstreetmap.org/node/4548639069",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4017234515-eye-of-the-tiger",
+      "name": "Eye Of The Tiger",
+      "website": "https://www.openstreetmap.org/node/4017234515",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-547321957-faith-tattoo",
+      "name": "Faith Tattoo",
+      "website": "https://www.openstreetmap.org/way/547321957",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0289746-fanghai-guo",
+      "name": "Fanghai Guo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0289746",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12774289806-fearless-tattoo",
+      "name": "Fearless Tattoo",
+      "website": "https://www.openstreetmap.org/node/12774289806",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310850-felipe-jimenez-evaristo",
+      "name": "Felipe Jimenez-evaristo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310850",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308089-filipp-khislavskii",
+      "name": "Filipp Khislavskii",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308089",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5328563041-final-sin-tattoo",
+      "name": "Final Sin Tattoo",
+      "website": "https://www.openstreetmap.org/node/5328563041",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308086-flora-tattoo-studio",
+      "name": "Flora Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308086",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310364-flourish-tattoo-foliage",
+      "name": "Flourish Tattoo & Foliage",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310364",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300534-francis-gagni",
+      "name": "Francis Gagni",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300534",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303496-francisco-xavier-graciano",
+      "name": "Francisco Xavier Graciano",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303496",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6689797963-freddy-corbin-s",
+      "name": "Freddy Corbin's",
+      "website": "https://www.openstreetmap.org/node/6689797963",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-2056745035-frisco-tattoo",
+      "name": "Frisco Tattoo",
+      "website": "https://www.openstreetmap.org/node/2056745035",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-9948792858-frisco-tattoo",
+      "name": "Frisco Tattoo",
+      "website": "http://www.friscotattoosf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.friscotattoosf.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 1,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-9985317461-g-spot-ink",
+      "name": "G Spot Ink",
+      "website": "https://www.openstreetmap.org/node/9985317461",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311056-gabriella-emma-fedetto",
+      "name": "Gabriella Emma Fedetto",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311056",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310846-gabrielle-catipon",
+      "name": "Gabrielle Catipon",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310846",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300768-genesis-tapia-mares",
+      "name": "Genesis Tapia Mares",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300768",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12798640627-gifted-spider-tattoo",
+      "name": "Gifted Spider Tattoo",
+      "website": "https://www.openstreetmap.org/node/12798640627",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-10065948612-gilded-ink-tattoos",
+      "name": "Gilded Ink Tattoos",
+      "website": "https://www.openstreetmap.org/node/10065948612",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-416567877-gilded-lilly-tattoo",
+      "name": "Gilded Lilly Tattoo",
+      "website": "https://www.openstreetmap.org/node/416567877",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-699519856-glass-beetle-tattoo-and-loops-piercing",
+      "name": "Glass Beetle Tattoo And Loops Piercing",
+      "website": "https://www.openstreetmap.org/way/699519856",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-10610388063-gold-leaf-ink",
+      "name": "Gold Leaf Ink",
+      "website": "https://www.openstreetmap.org/node/10610388063",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13838029501-good-luck-tattoo",
+      "name": "Good Luck Tattoo",
+      "website": "https://www.openstreetmap.org/node/13838029501",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309496-grace-melia-lu",
+      "name": "Grace Melia Lu",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309496",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310663-grace-tran-le",
+      "name": "Grace Tran Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310663",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12975171644-graven-image-tattoo-studio",
+      "name": "Graven Image Tattoo Studio",
+      "website": "https://www.openstreetmap.org/node/12975171644",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0262620-gualberto-flores",
+      "name": "Gualberto Flores",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0262620",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309488-guo-yu",
+      "name": "Guo Yu",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309488",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3801395647-haight-ashbury-tattoo-piercing",
+      "name": "Haight Ashbury Tattoo & Piercing",
+      "website": "https://www.openstreetmap.org/node/3801395647",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13022306660-hidden-coast-tattoo",
+      "name": "Hidden Coast Tattoo",
+      "website": "https://aaronhodgesart.com/",
+      "candidateUrls": [
+        {
+          "url": "https://aaronhodgesart.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://aaronhodgesart.com/section/161233.html",
+          "depth": 1,
+          "reason": "Portfolio"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://aaronhodgesart.com/home.html",
+          "status": 200,
+          "bytes": 13626,
+          "cache": "hit"
+        },
+        {
+          "url": "https://aaronhodgesart.com/section/161233.html",
+          "status": 200,
+          "bytes": 33832,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0274890-hiram-carrillo-flores",
+      "name": "Hiram Carrillo Flores",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0274890",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300896-hoa-dang",
+      "name": "Hoa Dang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300896",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303261-hoang-minh-tam-nguyen",
+      "name": "Hoang Minh Tam Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303261",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11832231061-hold-fast",
+      "name": "Hold Fast",
+      "website": "https://www.openstreetmap.org/node/11832231061",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0286123-homeroom-tattoo",
+      "name": "Homeroom Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0286123",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6709187217-honeymoon-tattoo",
+      "name": "Honeymoon Tattoo",
+      "website": "https://www.openstreetmap.org/node/6709187217",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5732669136-hot-ink-tattoos",
+      "name": "Hot Ink Tattoos",
+      "website": "http://www.hotinktattoos.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.hotinktattoos.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.hotinktattoos.com/"
+      ]
+    },
+    {
+      "recordId": "scc-fa0287900-humble-beginnings-tattoo",
+      "name": "Humble Beginnings Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0287900",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5180870592-idle-hand",
+      "name": "Idle Hand",
+      "website": "https://www.openstreetmap.org/node/5180870592",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4071080891-iji-emporium",
+      "name": "Iji Emporium",
+      "website": "https://www.openstreetmap.org/node/4071080891",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311138-ilaha-hajiyeva",
+      "name": "Ilaha Hajiyeva",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311138",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310659-ima-tattoo",
+      "name": "Ima Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310659",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8442146863-ink-now",
+      "name": "Ink Now",
+      "website": "https://www.openstreetmap.org/node/8442146863",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310728-inklings-tattoo-studio",
+      "name": "Inklings Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310728",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4220797204-international-tattoo",
+      "name": "International Tattoo",
+      "website": "https://www.openstreetmap.org/node/4220797204",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8648378120-irezumi-tattoo-studio",
+      "name": "Irezumi Tattoo Studio",
+      "website": "https://www.openstreetmap.org/node/8648378120",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304217-iyvonne-ngoc-nhang-nguyen",
+      "name": "Iyvonne Ngoc Nhang Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304217",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311653-izabella-grace-tacci",
+      "name": "Izabella Grace Tacci",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311653",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309048-jahlanii-maizoua-yang-buada",
+      "name": "Jahlanii Maizoua Yang Buada",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309048",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309231-jairo-alonso-chavez",
+      "name": "Jairo Alonso-chavez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309231",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309714-jared-jon-mulic",
+      "name": "Jared Jon Mulic",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309714",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0273439-jasmine-crystal-fuller",
+      "name": "Jasmine Crystal Fuller",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0273439",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0261216-jason-nathaniel-litral",
+      "name": "Jason Nathaniel Litral",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0261216",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310042-javier-eduardo-suarez-rosales",
+      "name": "Javier Eduardo Suarez Rosales",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310042",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11389265212-jay-s-fine-line-tattoo",
+      "name": "Jay's Fine Line Tattoo",
+      "website": "https://www.openstreetmap.org/node/11389265212",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310664-jennie-tran-nguyen",
+      "name": "Jennie Tran Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310664",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0274347-jennifer-r-kelso",
+      "name": "Jennifer R Kelso",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0274347",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309366-jenny-thao-tran",
+      "name": "Jenny Thao Tran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309366",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309856-jeremiah-erwin",
+      "name": "Jeremiah Erwin",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309856",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301611-jeremy-camposanto",
+      "name": "Jeremy Camposanto",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301611",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290878-jerry-moran",
+      "name": "Jerry Moran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290878",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306550-jessica-daniels",
+      "name": "Jessica Daniels",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306550",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306776-jessica-lynn-palaya",
+      "name": "Jessica Lynn Palaya",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306776",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311005-jesus-carbajal-morales",
+      "name": "Jesus Carbajal Morales",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311005",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303303-jesus-fernando-pinzon-arias",
+      "name": "Jesus Fernando Pinzon Arias",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303303",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309438-jia-hao-ng",
+      "name": "Jia Hao Ng",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309438",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301945-jiayi-li",
+      "name": "Jiayi Li",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301945",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300407-jocelyn-viray",
+      "name": "Jocelyn Viray",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300407",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0272063-joe-samatua",
+      "name": "Joe Samatua",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0272063",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0280301-johanna-lee-murazzo",
+      "name": "Johanna Lee Murazzo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0280301",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0251702-john-bullock",
+      "name": "John Bullock",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0251702",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0283298-jonathan-barrientos",
+      "name": "Jonathan Barrientos",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0283298",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0283595-jordan-pierre-a-gabriel",
+      "name": "Jordan Pierre A. Gabriel",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0283595",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0305470-jorge-contreras",
+      "name": "Jorge Contreras",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0305470",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0264844-jose-castillo",
+      "name": "Jose Castillo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0264844",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0272104-jose-cervantes",
+      "name": "Jose Cervantes",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0272104",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0264224-jose-lopez",
+      "name": "Jose Lopez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0264224",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310081-jose-velasques",
+      "name": "Jose Velasques",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310081",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309228-joseantonio-e-suarez-lopez",
+      "name": "Joseantonio E Suarez Lopez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309228",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309230-joselyn-maguellal",
+      "name": "Joselyn Maguellal",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309230",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300867-joseph-abel-martinez-apodaca",
+      "name": "Joseph Abel Martinez Apodaca",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300867",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0271938-joseph-gonzales",
+      "name": "Joseph Gonzales",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0271938",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304218-josephine-chan",
+      "name": "Josephine Chan",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304218",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0268191-josh-medeiros",
+      "name": "Josh Medeiros",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0268191",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0269151-joshua-t-stubblefield",
+      "name": "Joshua T Stubblefield",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0269151",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309367-joyce-g-qiao",
+      "name": "Joyce G Qiao",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309367",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301622-joyce-zhang",
+      "name": "Joyce Zhang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301622",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311198-juliana-lopez",
+      "name": "Juliana Lopez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311198",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307243-kaitlyn-marie-crume",
+      "name": "Kaitlyn Marie Crume",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307243",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265165-kazuaki-kitamura",
+      "name": "Kazuaki Kitamura",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265165",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0271289-kenny-brown",
+      "name": "Kenny Brown",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0271289",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307666-kevin-kwong",
+      "name": "Kevin Kwong",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307666",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304612-khang-n-phung",
+      "name": "Khang N Phung",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304612",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302849-kholay-noelle-madison",
+      "name": "Kholay Noelle Madison",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302849",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311272-kieu-c-nguyen",
+      "name": "Kieu C Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311272",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300473-kim-truc-huynh",
+      "name": "Kim Truc Huynh",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300473",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304616-kimi-jean-walters",
+      "name": "Kimi Jean Walters",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304616",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310789-kiyun-cha",
+      "name": "Kiyun Cha",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310789",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306933-krystle-jozen-o-dario",
+      "name": "Krystle Jozen O Dario",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306933",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308088-kseniia-khislavskaia",
+      "name": "Kseniia Khislavskaia",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308088",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0276527-kt-dragon-tattoo",
+      "name": "Kt Dragon Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0276527",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309966-kyle-joseph-ruiz",
+      "name": "Kyle Joseph Ruiz",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309966",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12985765390-la-rosa-tattoo",
+      "name": "La Rosa Tattoo",
+      "website": "https://larosatattoosf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://larosatattoosf.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://larosatattoosf.com/",
+          "status": 200,
+          "bytes": 68773,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0301614-lancing-love-chen",
+      "name": "Lancing Love Chen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301614",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311033-lang-chen",
+      "name": "Lang Chen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311033",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311109-lauren-grande",
+      "name": "Lauren Grande",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311109",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303105-lawrence-abed",
+      "name": "Lawrence Abed",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303105",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5134426239-legacy-tattoo",
+      "name": "Legacy Tattoo",
+      "website": "https://www.openstreetmap.org/node/5134426239",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0263142-leo-cardenas",
+      "name": "Leo Cardenas",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0263142",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3895865323-leonardi-tattoo",
+      "name": "Leonardi Tattoo",
+      "website": "https://www.openstreetmap.org/node/3895865323",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4022689969-let-it-bleed",
+      "name": "Let It Bleed",
+      "website": "https://www.letitbleedtattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.letitbleedtattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.letitbleedtattoo.com/"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302593-levi-christopher-carver",
+      "name": "Levi Christopher Carver",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302593",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301754-lezzly-valencia",
+      "name": "Lezzly Valencia",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301754",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12467539156-lifestyle-ink-tattoo-studio",
+      "name": "Lifestyle Ink Tattoo Studio",
+      "website": "https://www.openstreetmap.org/node/12467539156",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308558-lilyann-hoang",
+      "name": "Lilyann Hoang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308558",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304270-lin-ou",
+      "name": "Lin Ou",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304270",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301022-linh-le-tran",
+      "name": "Linh Le Tran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301022",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302576-linh-tran",
+      "name": "Linh Tran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302576",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310761-linh-chi-nguyen",
+      "name": "Linh-chi Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310761",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303157-loi-ho",
+      "name": "Loi Ho",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303157",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0277609-long-quoc-nguyen",
+      "name": "Long Quoc Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0277609",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306460-louise-chin-man-yan",
+      "name": "Louise Chin Man Yan",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306460",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-2716421237-lovedog-tattoos",
+      "name": "Lovedog Tattoos",
+      "website": "https://www.openstreetmap.org/node/2716421237",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8403476958-lucid-illusions-tattoo",
+      "name": "Lucid Illusions Tattoo",
+      "website": "https://www.openstreetmap.org/node/8403476958",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309492-lucid-illusions-tattoo",
+      "name": "Lucid Illusions Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309492",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-9770452271-lucky-stars-tattoo",
+      "name": "Lucky Stars Tattoo",
+      "website": "https://www.openstreetmap.org/node/9770452271",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311716-luis-antonio-sterling-ricardo",
+      "name": "Luis Antonio Sterling Ricardo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311716",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0291094-luna-tattoo-studio",
+      "name": "Luna Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0291094",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0299496-lyly-ha",
+      "name": "Lyly Ha",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0299496",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302055-lynn-tong-huang",
+      "name": "Lynn Tong Huang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302055",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302895-mabel-wei-wang",
+      "name": "Mabel Wei Wang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302895",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11110984179-magnetic-arts",
+      "name": "Magnetic Arts",
+      "website": "https://magneticarts.tattoo/",
+      "candidateUrls": [
+        {
+          "url": "https://magneticarts.tattoo/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.magneticarts.tattoo/",
+          "status": 200,
+          "bytes": 136756,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-6373068179-manus-lux-tattoo",
+      "name": "Manus Lux Tattoo",
+      "website": "https://www.openstreetmap.org/node/6373068179",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0276221-marcus-herrera",
+      "name": "Marcus Herrera",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0276221",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310102-maria-guadalupe-garcia",
+      "name": "Maria Guadalupe Garcia",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310102",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311862-marian-jeanel-ramos-pascual",
+      "name": "Marian Jeanel Ramos Pascual",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311862",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309137-marisa-charlene-biddle",
+      "name": "Marisa Charlene Biddle",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309137",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0281604-mars-ink-tattoo-studio-llc",
+      "name": "Mars Ink Tattoo Studio Llc",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0281604",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0264420-martin-roberson",
+      "name": "Martin Roberson",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0264420",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0254909-marty-maaske",
+      "name": "Marty Maaske",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0254909",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0285680-mary-nguyen",
+      "name": "Mary Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0285680",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307070-mary-quynh-ngoc-vu",
+      "name": "Mary Quynh Ngoc Vu",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307070",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0275676-mary-vy-le",
+      "name": "Mary Vy Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0275676",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-393124821-masterpiece-tattoo",
+      "name": "Masterpiece Tattoo",
+      "website": "https://www.masterpiecetattoosf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.masterpiecetattoosf.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/cas-tattoo-portfolio/",
+          "depth": 1,
+          "reason": "line-work tattoo"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/brian-martinez-tattoo-portfolio/",
+          "depth": 1,
+          "reason": "Brian Martinez Tattoo Portfolio"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/tattoo-gallery/",
+          "depth": 1,
+          "reason": "Brian Martinez"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/dark-tattoos-dark-art-tattoos-bio-organic-tattoos-dart-tattoo-artist/",
+          "depth": 1,
+          "reason": "dark tattoos"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/portrait-tattoo-artist-san-francisco/",
+          "depth": 1,
+          "reason": "Portrait tattoos"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/wp-content/uploads/2024/05/1-best-color-tattoo-artist-san-francisco-bay-area-california.jpg",
+          "depth": 1,
+          "reason": "portfolio-like URL"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/wp-content/uploads/2024/05/1-best-black-and-grey-tattoo-artist-san-francisco-bay-area-california.jpg",
+          "depth": 1,
+          "reason": "portfolio-like URL"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/wp-content/uploads/2024/05/1-best-3d-tattoo-artist-California.jpg",
+          "depth": 1,
+          "reason": "portfolio-like URL"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/wp-content/uploads/2024/05/1-cover-up-tattoo-artist-California-4.jpg",
+          "depth": 1,
+          "reason": "portfolio-like URL"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/wp-content/uploads/2024/05/1-cover-up-tattoo-artist.jpg",
+          "depth": 1,
+          "reason": "portfolio-like URL"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/wp-content/uploads/2024/05/1-portrait-tattoo-artist-bay-arera.jpg",
+          "depth": 1,
+          "reason": "portfolio-like URL"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://masterpiecetattoosf.com/",
+          "status": 200,
+          "bytes": 199623,
+          "cache": "hit"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/",
+          "status": 200,
+          "bytes": 199623,
+          "cache": "hit"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/",
+          "status": 200,
+          "bytes": 199623,
+          "cache": "hit"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/",
+          "status": 200,
+          "bytes": 199623,
+          "cache": "hit"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/dark-tattoos-dark-art-tattoos-bio-organic-tattoos-dart-tattoo-artist/",
+          "status": 200,
+          "bytes": 11737,
+          "cache": "hit"
+        },
+        {
+          "url": "https://masterpiecetattoosf.com/",
+          "status": 200,
+          "bytes": 199623,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 0,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "osm-node-13950540659-masterpiece-tattoos",
+      "name": "Masterpiece Tattoos",
+      "website": "https://masterpiecetattoos.com/",
+      "candidateUrls": [
+        {
+          "url": "https://masterpiecetattoos.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://masterpiecetattoos.com/",
+          "status": 200,
+          "bytes": 331274,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0299738-matthew-bustamante",
+      "name": "Matthew Bustamante",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0299738",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0299688-matthew-diaz",
+      "name": "Matthew Diaz",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0299688",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290411-matthew-lee-tillman",
+      "name": "Matthew Lee Tillman",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290411",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0260962-matthew-shamah",
+      "name": "Matthew Shamah",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0260962",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304606-melissa-yasemin-searle",
+      "name": "Melissa Yasemin Searle",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304606",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309648-melody-colombini",
+      "name": "Melody Colombini",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309648",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13801108788-memento-mori-tattoo",
+      "name": "Memento Mori Tattoo",
+      "website": "https://mementomoritattoos.com/",
+      "candidateUrls": [
+        {
+          "url": "https://mementomoritattoos.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://mementomoritattoos.com/artists",
+          "depth": 1,
+          "reason": "ARTISTS"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://mementomoritattoos.com/",
+          "status": 200,
+          "bytes": 172811,
+          "cache": "hit"
+        },
+        {
+          "url": "https://mementomoritattoos.com/artists",
+          "status": 200,
+          "bytes": 131202,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 5,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "scc-fa0281619-michael-aveno",
+      "name": "Michael Aveno",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0281619",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265692-michael-cory-majors",
+      "name": "Michael Cory Majors",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265692",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309370-michael-mcclung",
+      "name": "Michael Mcclung",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309370",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309365-michelle-sagun-barba",
+      "name": "Michelle Sagun Barba",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309365",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13841945502-midtown-tattoo",
+      "name": "Midtown Tattoo",
+      "website": "https://www.openstreetmap.org/node/13841945502",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311280-mikkayla-rozz-aradanas-syquio",
+      "name": "Mikkayla Rozz Aradanas Syquio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311280",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309698-miriam-chen-lin",
+      "name": "Miriam Chen Lin",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309698",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12995391975-mis-raices-studio",
+      "name": "Mis Raices Studio",
+      "website": "https://www.instagram.com/misraices.studio/",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 1,
+      "decisions": [
+        "stored official Instagram profile link without crawling Instagram"
+      ]
+    },
+    {
+      "recordId": "osm-node-3273908272-mission-ink",
+      "name": "Mission Ink",
+      "website": "https://www.missioninksf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.missioninksf.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.missioninksf.com/",
+          "status": 200,
+          "bytes": 228410,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-way-699008374-mission-street-tattoo-piercing",
+      "name": "Mission Street Tattoo & Piercing",
+      "website": "https://www.mission-street-tattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.mission-street-tattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.mission-street-tattoo.com/"
+      ]
+    },
+    {
+      "recordId": "osm-node-13725904219-mo-tattoo",
+      "name": "Mo Tattoo",
+      "website": "https://www.openstreetmap.org/node/13725904219",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6399956385-modern-electric",
+      "name": "Modern Electric",
+      "website": "https://www.openstreetmap.org/node/6399956385",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306244-mol-far-tattoo",
+      "name": "Mol'far Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306244",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4359127591-mom-s-body-shop",
+      "name": "Mom's Body Shop",
+      "website": "https://www.facebook.com/momsbodyshop",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "skipped social-only website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4486115704-monsters-ink",
+      "name": "Monsters Ink",
+      "website": "http://www.monstersinktattooca.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.monstersinktattooca.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-3393384948-moth-dagger-tattoo",
+      "name": "Moth & Dagger Tattoo",
+      "website": "https://www.mothanddaggertattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.mothanddaggertattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.mothanddaggertattoo.com/"
+      ]
+    },
+    {
+      "recordId": "scc-fa0285672-nashelly-perez",
+      "name": "Nashelly Perez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0285672",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0293892-nathan-j-rivera",
+      "name": "Nathan J Rivera",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0293892",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311863-nathaniel-perez",
+      "name": "Nathaniel Perez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311863",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11147659123-natural-selection",
+      "name": "Natural Selection",
+      "website": "https://www.openstreetmap.org/node/11147659123",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307222-nevaeh-amayah-vicencio",
+      "name": "Nevaeh Amayah Vicencio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307222",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8648300403-new-generation-tattoo",
+      "name": "New Generation Tattoo",
+      "website": "https://www.openstreetmap.org/node/8648300403",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303914-nga-hong-le",
+      "name": "Nga Hong Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303914",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307703-ngoc-tram-anh-ho",
+      "name": "Ngoc Tram Anh Ho",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307703",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307976-nguyen-celine",
+      "name": "Nguyen, Celine",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307976",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300881-nicholas-dimitri-bongiorno",
+      "name": "Nicholas Dimitri Bongiorno",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300881",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0273843-nick-michael-dillard",
+      "name": "Nick Michael Dillard",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0273843",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290808-nicole-ai-nhi-cu",
+      "name": "Nicole Ai Nhi Cu",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290808",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4030526509-nightshade-studios",
+      "name": "Nightshade Studios",
+      "website": "https://www.nightshadesf.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.nightshadesf.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0303899-no-11-tattoo-studio",
+      "name": "No. 11 Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303899",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304479-noble-trinity-tattoo",
+      "name": "Noble Trinity Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304479",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12800921984-nonotattoo-collective",
+      "name": "Nonotattoo Collective",
+      "website": "https://www.openstreetmap.org/node/12800921984",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307166-november-wilker",
+      "name": "November Wilker",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307166",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8258655187-nyou-image-ink",
+      "name": "Nyou Image Ink",
+      "website": "https://www.openstreetmap.org/node/8258655187",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-265275727-o-reilly-s-tattoo-parlor",
+      "name": "O'reilly's Tattoo Parlor",
+      "website": "https://oreillystattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://oreillystattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://oreillystattoo.com/",
+          "status": 200,
+          "bytes": 11898,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-3927998684-oakland-ink",
+      "name": "Oakland Ink",
+      "website": "https://www.openstreetmap.org/node/3927998684",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8641835227-ocean-avenue-tattoo",
+      "name": "Ocean Avenue Tattoo",
+      "website": "https://www.openstreetmap.org/node/8641835227",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13097404823-old-crow-tattoo",
+      "name": "Old Crow Tattoo",
+      "website": "https://www.oldcrowtattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.oldcrowtattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.oldcrowtattoo.com/"
+      ]
+    },
+    {
+      "recordId": "osm-node-5567351720-old-english",
+      "name": "Old English",
+      "website": "https://www.openstreetmap.org/node/5567351720",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-2051836123-old-town",
+      "name": "Old Town",
+      "website": "https://www.openstreetmap.org/node/2051836123",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0294166-oliver-nocon-prestosa",
+      "name": "Oliver Nocon Prestosa",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0294166",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3667880932-one-shot-tattoo",
+      "name": "One Shot Tattoo",
+      "website": "https://www.openstreetmap.org/node/3667880932",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-1059650145-only-skin-deep",
+      "name": "Only Skin Deep",
+      "website": "https://www.openstreetmap.org/way/1059650145",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303083-orfanel-araujo",
+      "name": "Orfanel Araujo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303083",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0262321-orly-locquiao",
+      "name": "Orly Locquiao",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0262321",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0269720-osvaldo-a-baron",
+      "name": "Osvaldo A Baron",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0269720",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8498170935-paradise-tattoo",
+      "name": "Paradise Tattoo",
+      "website": "https://www.openstreetmap.org/node/8498170935",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309713-paul-pham",
+      "name": "Paul Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309713",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310679-pedro-jesus-garduno",
+      "name": "Pedro Jesus Garduno",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310679",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0287715-philip-james-rowland",
+      "name": "Philip James Rowland",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0287715",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12750336884-philthy-clean-tattoo",
+      "name": "Philthy Clean Tattoo",
+      "website": "https://www.facebook.com/mrphilthycleantattoo/",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "skipped social-only website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290871-phuc-minh-vo",
+      "name": "Phuc Minh Vo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290871",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308755-phuong-pham",
+      "name": "Phuong Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308755",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-286270200-picture-machine",
+      "name": "Picture Machine",
+      "website": "https://sanfranciscotattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://sanfranciscotattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-way-708351150-ponderosa-tattoo",
+      "name": "Ponderosa Tattoo",
+      "website": "https://www.openstreetmap.org/way/708351150",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11070552469-premium-clan-tattoo-studio",
+      "name": "Premium Clan Tattoo Studio",
+      "website": "https://www.openstreetmap.org/node/11070552469",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303495-pura-tinta-tattoo-studio",
+      "name": "Pura Tinta Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303495",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8288079897-pyramid-tattoo",
+      "name": "Pyramid Tattoo",
+      "website": "https://www.openstreetmap.org/node/8288079897",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302342-quan-nguyen",
+      "name": "Quan Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302342",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290869-quang-vinh-do",
+      "name": "Quang Vinh Do",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290869",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311055-quetzalli-jimenez",
+      "name": "Quetzalli Jimenez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311055",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301953-rachel-solidarios-altamirano",
+      "name": "Rachel Solidarios Altamirano",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301953",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0259874-rafael-hernandez",
+      "name": "Rafael Hernandez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0259874",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309486-raul-ramirez",
+      "name": "Raul Ramirez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309486",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0307167-raymond-zamora",
+      "name": "Raymond Zamora",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0307167",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311654-rebecca-azersky",
+      "name": "Rebecca Azersky",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311654",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5072675721-reclamare-tattoo",
+      "name": "Reclamare Tattoo",
+      "website": "https://www.openstreetmap.org/node/5072675721",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310771-red-demon-tattoos",
+      "name": "Red Demon Tattoos",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310771",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3166823781-red-kestrel-tattoo",
+      "name": "Red Kestrel Tattoo",
+      "website": "https://www.openstreetmap.org/node/3166823781",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-1737926120-redwood-tatoo-co",
+      "name": "Redwood Tatoo Co.",
+      "website": "https://www.openstreetmap.org/node/1737926120",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310323-renee-paulette-batres",
+      "name": "Renee Paulette Batres",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310323",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-2219006990-revolution-ink",
+      "name": "Revolution Ink",
+      "website": "https://www.openstreetmap.org/node/2219006990",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0266239-ricardo-rivera",
+      "name": "Ricardo Rivera",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0266239",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12321564794-ricky-tattoo",
+      "name": "Ricky Tattoo",
+      "website": "https://www.openstreetmap.org/node/12321564794",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-343610950-ritual-tattoo",
+      "name": "Ritual Tattoo",
+      "website": "https://ritualtat.com/",
+      "candidateUrls": [
+        {
+          "url": "https://ritualtat.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.ritualtat.com/",
+          "status": 200,
+          "bytes": 573640,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0308219-rodney-villanueva",
+      "name": "Rodney Villanueva",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308219",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-9379542303-roseville-tattoo-co",
+      "name": "Roseville Tattoo Co.",
+      "website": "https://www.rosevillesc.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.rosevillesc.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "robots blocked https://www.rosevillesc.com/"
+      ]
+    },
+    {
+      "recordId": "osm-node-8922987573-royal-peacock-tattoo-parlor",
+      "name": "Royal Peacock Tattoo Parlor",
+      "website": "https://www.royalpeacocktattooparlor.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.royalpeacocktattooparlor.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://www.royalpeacocktattooparlor.com/about",
+          "depth": 1,
+          "reason": "ARTISTS"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.royalpeacocktattooparlor.com/",
+          "status": 200,
+          "bytes": 94152,
+          "cache": "hit"
+        },
+        {
+          "url": "https://www.royalpeacocktattooparlor.com/about",
+          "status": 200,
+          "bytes": 155961,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 4,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309851-ryan-nicole-harwell",
+      "name": "Ryan Nicole Harwell",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309851",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303192-ryang-kim",
+      "name": "Ryang Kim",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303192",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0284590-sacred-oath-tattoos",
+      "name": "Sacred Oath Tattoos",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0284590",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-368167439-sacred-rose-tattoo",
+      "name": "Sacred Rose Tattoo",
+      "website": "https://www.openstreetmap.org/node/368167439",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13246743501-sacred-soul-tattoo-and-piercing",
+      "name": "Sacred Soul Tattoo And Piercing",
+      "website": "https://www.openstreetmap.org/node/13246743501",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13480936245-sacred-tattoo",
+      "name": "Sacred Tattoo",
+      "website": "https://www.openstreetmap.org/node/13480936245",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306203-sage-noel-kurnie",
+      "name": "Sage Noel Kurnie",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306203",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13307488281-sailors-ink",
+      "name": "Sailors Ink",
+      "website": "https://www.sailorsink.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.sailorsink.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://www.sailorsink.com/gallery",
+          "depth": 1,
+          "reason": "Jen's Portfolio"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.sailorsink.com/",
+          "status": 200,
+          "bytes": 143454,
+          "cache": "hit"
+        },
+        {
+          "url": "https://www.sailorsink.com/gallery",
+          "status": 200,
+          "bytes": 4731857,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 2,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "osm-node-416575638-salty-dog-tattoos",
+      "name": "Salty Dog Tattoos",
+      "website": "https://www.openstreetmap.org/node/416575638",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0268923-samantha-rusk",
+      "name": "Samantha Rusk",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0268923",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-2598866166-sammy-rain-s-custom-tattooz",
+      "name": "Sammy Rain's Custom Tattooz",
+      "website": "https://www.openstreetmap.org/node/2598866166",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0259657-san-jose-tattoo",
+      "name": "San Jose Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0259657",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303900-sarah-nhien-pham",
+      "name": "Sarah Nhien Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303900",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311995-say-muoi-cun",
+      "name": "Say Muoi Cun",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311995",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13141558880-secret-sidewalk-tattoo",
+      "name": "Secret Sidewalk Tattoo",
+      "website": "https://www.openstreetmap.org/node/13141558880",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0291287-sergio-francisco-alvarez",
+      "name": "Sergio Francisco Alvarez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0291287",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0277898-sergio-montes",
+      "name": "Sergio Montes",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0277898",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-4406213991-seventh-son",
+      "name": "Seventh Son",
+      "website": "https://www.openstreetmap.org/node/4406213991",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303569-shanette-sugayan-gapol",
+      "name": "Shanette Sugayan Gapol",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303569",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311492-sharon-my-le",
+      "name": "Sharon My Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311492",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0289398-shelby-chin",
+      "name": "Shelby Chin",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0289398",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5474741636-shipyard-tattoo",
+      "name": "Shipyard Tattoo",
+      "website": "https://www.openstreetmap.org/node/5474741636",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311457-shu-tong-gao",
+      "name": "Shu Tong Gao",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311457",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311282-skyla-gao-li-ith",
+      "name": "Skyla Gao Li Ith",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311282",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0286513-soon-yun-lemaster",
+      "name": "Soon Yun Lemaster",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0286513",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302767-soul-imagez-tattoo",
+      "name": "Soul Imagez Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302767",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3648457228-state-of-grace",
+      "name": "State Of Grace",
+      "website": "https://stateofgracetattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://stateofgracetattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.stateofgracetattoo.com/",
+          "status": 200,
+          "bytes": 256061,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 1,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304498-stella-lee",
+      "name": "Stella Lee",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304498",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0285703-stephen-thomas-sherick-ii",
+      "name": "Stephen Thomas Sherick Ii",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0285703",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0305533-steve-sherick-tattoo",
+      "name": "Steve Sherick Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0305533",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310334-steven-a-nava",
+      "name": "Steven A Nava",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310334",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-521379110-strong-tattoo",
+      "name": "Strong Tattoo",
+      "website": "https://www.openstreetmap.org/way/521379110",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3801415661-studio-kazoku",
+      "name": "Studio Kazoku",
+      "website": "https://www.openstreetmap.org/node/3801415661",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12331993633-studio-noir",
+      "name": "Studio Noir",
+      "website": "https://www.openstreetmap.org/node/12331993633",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13955997337-swan-sword-tattoo",
+      "name": "Swan & Sword Tattoo",
+      "website": "https://www.openstreetmap.org/node/13955997337",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0291529-sylvia-duenas",
+      "name": "Sylvia Duenas",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0291529",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303156-tai-n-to",
+      "name": "Tai N To",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303156",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265141-takahiro-kitamura",
+      "name": "Takahiro Kitamura",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265141",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0281846-takashi-noguchi",
+      "name": "Takashi Noguchi",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0281846",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0272145-tamiko-e-rast",
+      "name": "Tamiko E Rast",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0272145",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302722-tattoo-nerds",
+      "name": "Tattoo Nerds",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302722",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-3678527456-taylor-ink",
+      "name": "Taylor Ink",
+      "website": "https://www.openstreetmap.org/node/3678527456",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13480944124-temple-tattoo-13",
+      "name": "Temple Tattoo 13",
+      "website": "https://www.templetattoo13.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.templetattoo13.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.templetattoo13.com/",
+          "status": 200,
+          "bytes": 247592,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 5,
+      "decisions": [
+        "quarantined suspect non-portfolio media before app deploy"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306207-teresa-yvette-rosales",
+      "name": "Teresa Yvette Rosales",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306207",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302721-tessia-spisak",
+      "name": "Tessia Spisak",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302721",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310498-the-artistry-tattoo-studio",
+      "name": "The Artistry Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310498",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11048744223-the-dogfather-tattoo",
+      "name": "The Dogfather Tattoo",
+      "website": "https://dogfathertattoo.com/",
+      "candidateUrls": [
+        {
+          "url": "https://dogfathertattoo.com/",
+          "depth": 0,
+          "reason": "official website"
+        },
+        {
+          "url": "https://dogfathertattoo.com/booking",
+          "depth": 1,
+          "reason": "Booking"
+        },
+        {
+          "url": "https://dogfathertattoo.com/m/bookings",
+          "depth": 1,
+          "reason": "Bookings"
+        },
+        {
+          "url": "https://dogfathertattoo.com/artist",
+          "depth": 1,
+          "reason": "Artist"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://dogfathertattoo.com/",
+          "status": 200,
+          "bytes": 139769,
+          "cache": "hit"
+        },
+        {
+          "url": "https://dogfathertattoo.com/booking",
+          "status": 200,
+          "bytes": 113225,
+          "cache": "hit"
+        },
+        {
+          "url": "https://dogfathertattoo.com/m/login?r=%2Fm%2Fbookings",
+          "status": 200,
+          "bytes": 85911,
+          "cache": "hit"
+        },
+        {
+          "url": "https://dogfathertattoo.com/artist",
+          "status": 200,
+          "bytes": 141025,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 6,
+      "decisions": []
+    },
+    {
+      "recordId": "osm-node-8481756555-the-forge",
+      "name": "The Forge",
+      "website": "https://www.theforgetattoos.com/",
+      "candidateUrls": [
+        {
+          "url": "https://www.theforgetattoos.com/",
+          "depth": 0,
+          "reason": "official website"
+        }
+      ],
+      "pagesFetched": [
+        {
+          "url": "https://www.theforgetattoos.com/",
+          "status": 200,
+          "bytes": 48260,
+          "cache": "hit"
+        }
+      ],
+      "itemsAccepted": 0,
+      "decisions": []
+    },
+    {
+      "recordId": "scc-fa0304726-the-golden-oak-tattoo-studio",
+      "name": "The Golden Oak Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304726",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-7215727819-the-heart-the-anvil-tattoo",
+      "name": "The Heart & The Anvil Tattoo",
+      "website": "https://www.openstreetmap.org/node/7215727819",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290408-the-holy-scythe-tattoo",
+      "name": "The Holy Scythe Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290408",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11105808323-the-klubhouse-tattoo-and-piercing",
+      "name": "The Klubhouse Tattoo And Piercing",
+      "website": "https://www.openstreetmap.org/node/11105808323",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0260727-the-marks-of-art-tattoo-parlor",
+      "name": "The Marks Of Art Tattoo Parlor",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0260727",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0300736-thi-viet-my-van",
+      "name": "Thi Viet My Van",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0300736",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0306824-thien-khanh-tran",
+      "name": "Thien Khanh Tran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0306824",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0257785-tho-doan",
+      "name": "Tho Doan",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0257785",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301646-thomas-thuan-tran",
+      "name": "Thomas Thuan Tran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301646",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310043-thousand-cranes-tattoo",
+      "name": "Thousand Cranes Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310043",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0287887-thu-thuy-hau",
+      "name": "Thu Thuy Hau",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0287887",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0290874-thuan-minh-tran",
+      "name": "Thuan Minh Tran",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0290874",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311355-tiffany-phuong-hoang",
+      "name": "Tiffany Phuong Hoang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311355",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0303615-tin-le",
+      "name": "Tin Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0303615",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304730-toan-huu-pham",
+      "name": "Toan Huu Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304730",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265113-toby-torres",
+      "name": "Toby Torres",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265113",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0274663-tony-minh-hoang",
+      "name": "Tony Minh Hoang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0274663",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302595-tracy-le-cao",
+      "name": "Tracy Le Cao",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302595",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0305493-travis-leahy",
+      "name": "Travis Leahy",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0305493",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0289378-travis-naset",
+      "name": "Travis Naset",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0289378",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11884695661-trilllogy-tattoo",
+      "name": "Trilllogy Tattoo",
+      "website": "https://www.openstreetmap.org/node/11884695661",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6763077125-triple-r-tattoo-art-studio",
+      "name": "Triple R Tattoo & Art Studio",
+      "website": "https://www.openstreetmap.org/node/6763077125",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309852-trixie-nicole-lopez-micarsos",
+      "name": "Trixie Nicole Lopez Micarsos",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309852",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8105092066-true-love-tattoo",
+      "name": "True Love Tattoo",
+      "website": "https://www.openstreetmap.org/node/8105092066",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-5876905611-tuesday-tattoo",
+      "name": "Tuesday Tattoo",
+      "website": "https://www.openstreetmap.org/node/5876905611",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-6960980690-two-cranes-tattoo",
+      "name": "Two Cranes Tattoo",
+      "website": "https://www.openstreetmap.org/node/6960980690",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0308104-tyler-davis",
+      "name": "Tyler Davis",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0308104",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0286966-tyler-stratton-harrington",
+      "name": "Tyler Stratton Harrington",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0286966",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-13715184384-undrgrnd",
+      "name": "Undrgrnd",
+      "website": "https://www.openstreetmap.org/node/13715184384",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309912-upscale-ink-art-llc",
+      "name": "Upscale Ink Art Llc",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309912",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-way-698165660-vacaville-tattoo-co",
+      "name": "Vacaville Tattoo Co.",
+      "website": "https://www.openstreetmap.org/way/698165660",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-11164513267-vampire-battle-mansion",
+      "name": "Vampire Battle Mansion",
+      "website": "https://www.openstreetmap.org/node/11164513267",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302896-van-nguyen",
+      "name": "Van Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302896",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0311715-vanessa-castillo-lozano",
+      "name": "Vanessa Castillo-lozano",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0311715",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0278166-vanessa-m-velasquez",
+      "name": "Vanessa M Velasquez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0278166",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0265772-venjamin-jimenez",
+      "name": "Venjamin Jimenez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0265772",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0269965-viet-hoai-nguyen",
+      "name": "Viet Hoai Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0269965",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309369-viktoria-raquel-gonzales",
+      "name": "Viktoria Raquel Gonzales",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309369",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309328-vincent-hoang",
+      "name": "Vincent Hoang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309328",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310778-vu-nguyen",
+      "name": "Vu Nguyen",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310778",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0286110-vu-tuan-phan",
+      "name": "Vu Tuan Phan",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0286110",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310847-vy-thuy-le",
+      "name": "Vy Thuy Le",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310847",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-12824398150-war-horse-tattoo",
+      "name": "War Horse Tattoo",
+      "website": "https://www.openstreetmap.org/node/12824398150",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302596-weiqi-shi",
+      "name": "Weiqi Shi",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302596",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304887-william-michael-ramirez",
+      "name": "William Michael Ramirez",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304887",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310849-yen-nhi-pham",
+      "name": "Yen Nhi Pham",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310849",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301630-yonko-tattoo-studio",
+      "name": "Yonko Tattoo Studio",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301630",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0301872-youngha-claire-baek",
+      "name": "Youngha (claire) Baek",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0301872",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310210-yunting-lin",
+      "name": "Yunting Lin",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310210",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "osm-node-8072278150-zebra",
+      "name": "Zebra",
+      "website": "https://www.openstreetmap.org/node/8072278150",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0309363-zelines-doan-flores",
+      "name": "Zelines Doan Flores",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0309363",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0310399-zenith-ink-tattoo",
+      "name": "Zenith Ink Tattoo",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0310399",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0302598-zhijian-yang",
+      "name": "Zhijian Yang",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0302598",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    },
+    {
+      "recordId": "scc-fa0304871-zoe-louise-wilder",
+      "name": "Zoe Louise Wilder",
+      "website": "https://data.sccgov.org/Health/County-of-Santa-Clara-Permitted-Body-Art-Facilitie/mqx2-w62f?facility_id=FA0304871",
+      "candidateUrls": [],
+      "pagesFetched": [],
+      "itemsAccepted": 0,
+      "decisions": [
+        "no crawlable official website"
+      ]
+    }
+  ]
+}

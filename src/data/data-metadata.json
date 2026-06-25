@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-06-25",
+  "totalRecords": 471,
+  "osmRecords": 157,
+  "santaClaraRecords": 321,
+  "sources": [
+    "OpenStreetMap Overpass API",
+    "Santa Clara County permitted body art facilities"
+  ],
+  "portfolioEnrichedAt": "2026-06-25",
+  "portfolioEnrichment": {
+    "totalRecords": 471,
+    "recordsWithPortfolioItems": 18,
+    "totalPortfolioItems": 79,
+    "directWebsiteImages": 45,
+    "instagramProfileLinks": 25,
+    "instagramPostLinks": 9,
+    "enrichedOfficialCandidates": 19,
+    "recordsStillNeedingManualVerification": 453,
+    "blockedSources": 15,
+    "duplicateRemovals": 9,
+    "brokenOrRejectedUrls": 46,
+    "bySource": {
+      "instagram": 34,
+      "officialWebsite": 45
+    },
+    "quarantinedPortfolioItems": 15
+  }
+}

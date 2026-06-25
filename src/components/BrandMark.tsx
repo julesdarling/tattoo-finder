@@ -1,10 +1,15 @@
+import { Link } from 'react-router-dom';
+
 export function BrandMark() {
   return (
-    <div className="brand-lockup" aria-hidden="true">
-      <div className="brand-image">
-        <img src="/tattoo-finder/brand-logo-source.png" alt="" />
-      </div>
-      <span className="brand-word">TF</span>
-    </div>
+    <Link className="brand-mark" to="/" aria-label="Tattoo Finder home">
+      <span className="brand-logo" aria-hidden="true">
+        <img src={`${import.meta.env.BASE_URL}brand-logo-source.png`} alt="" />
+      </span>
+      <span className="brand-text">
+        <span>Bay Area</span>
+        <strong>Tattoo Finder</strong>
+      </span>
+    </Link>
   );
 }

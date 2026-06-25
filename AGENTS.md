@@ -2,49 +2,54 @@
 
 ## Objective
 
-Build and maintain Tattoo Finder, a mobile-first static web app that helps people discover Bay Area tattoo artists and studios by portfolio style, location, map position, source confidence, and booking/contact paths.
+Build and maintain a static Airbnb-style marketplace web app for finding Bay Area tattoo artists and studios. The app must help users compare portfolios, location, styles, source confidence, and booking/contact links faster than Instagram plus Maps.
 
-The app must feel like a portfolio-first Airbnb-style finder for tattoo work: quick to scan on mobile, spatially useful on desktop, visually grounded in off-black, off-white, and yellow, and never dependent on a backend or private secrets.
+## Current Product Shape
+
+- Static Vite + React + TypeScript app deployed to GitHub Pages at `/tattoo-finder/`.
+- Source data lives in `scraped-database/records.json`; app-ready data is copied to `src/data/records.json`.
+- No backend, auth, private API tokens, payments, or marketplace booking in v1.
+- UI flow follows Airbnb marketplace patterns: top mode nav, segmented search, horizontal discovery shelves, listing cards, saved items, detail view, and list/map search results.
 
 ## Allowed Workflows
 
-- Use short implementation loops: plan the slice, write or update tests first when behavior is involved, implement, run focused checks, then run broader checks before claiming completion.
-- Use subagents for independent slices when useful: data collection/QA, UI implementation, accessibility and visual review, deployment verification.
-- Keep agent write scopes disjoint when multiple agents are active. Agents must not revert or overwrite changes made by others.
-- Prefer small focused files over large mixed-responsibility modules.
-- Use local static data and build-time scripts. No server runtime, database, or API key is required for v1.
-- Use GitHub CLI and GitHub Actions for repository setup, publishing, and Pages deployment.
+- Read from public, first-party, or open-data sources where robots/terms permit.
+- Use rate-limited, cached enrichment scripts under `scraped-database/scripts`.
+- Store Instagram profile URLs and official public post/reel/tv URLs only.
+- Store first-party website image URLs only when the image is referenced from an audited source page.
+- Use localStorage only for client preferences such as saved records and last search.
+- Use subagents for data, UI, and QA loops when broadening the app.
 
 ## Constraints
 
-- Do not scrape, copy, download, or commit Instagram media. Store Instagram profile links and official public post URLs only. Render official embeds lazily when possible and always provide a plain link fallback.
-- Every artist or studio record must include source references, verification date, confidence, and enough location data to place it within the Bay Area.
-- Data collection must be auditable, rate-limited, reversible, and respectful of source terms, robots rules, and map/geocoding policies.
-- OSM tiles must show visible attribution and must not be prefetched, bulk downloaded, or hidden behind restrictive referrer policies.
-- The app must remain static and GitHub Pages compatible. Do not add backend-only libraries, server routes, private tokens, or runtime secrets.
-- The UI must be mobile-first. Desktop split map/gallery layout is an enhancement, not the primary experience.
-- Avoid pure black and pure white. Use charcoal, warm paper, and yellow. Avoid purple/blue gradients, decorative blobs, emoji, nested cards, generic dashboard charts, and marketing-first hero screens.
-- Use Zalando Sans for all-caps display/headline moments and a legible modern sans for body/UI text.
+- Never copy, screenshot, cache, or host Instagram media.
+- Never store Instagram CDN, `cdninstagram.com`, or `fbcdn.net` media URLs.
+- Never imply booking availability, pricing, ratings, or verified quality unless sourced.
+- Permit/open-data records are discovery records, not endorsements or booking guarantees.
+- OSM map tiles must show attribution and must not be prefetched or scraped.
+- Generated placeholder art must be visibly abstract and labeled as a fallback, not fake portfolio work.
+
+## Design Rules
+
+- Brand palette: off-black, warm off-white, and yellow.
+- Headlines: Zalando Sans, bold, all caps.
+- Body/UI: Space Grotesk.
+- Product register: familiar marketplace/search ergonomics over decorative novelty.
+- Airbnb flow inspiration is allowed; Airbnb branding, assets, exact copy, and proprietary UI code are not.
+- Use cards only for listings, sheets, and repeated objects. Avoid nested cards.
 
 ## Testing Requirements
 
-- Add or update tests for schema validation, search/filter behavior, distance sorting, dedupe checks, saved-list persistence, detail panel behavior, map/list toggling, and embed fallbacks.
-- Run data QA before publishing. The dataset must contain at least 200 records, valid coordinates, unique IDs, source URLs, no copied Instagram media, and no duplicate website/Instagram clusters.
-- Run unit/component tests, build, and Playwright smoke tests before making completion claims.
-- Visual review must cover mobile and desktop viewports.
-
-## Deployment Rules
-
-- Build with Vite using the `/tattoo-finder/` base path.
-- Deploy the static build to GitHub Pages from `juleshaggard/tattoo-finder` using GitHub Actions.
-- Verify the published site after deployment and report the live URL plus the exact checks run.
+- Run data validation before every deploy.
+- Run unit/component tests for schema, filters, saved state, URL state, cards, search, and detail behavior.
+- Run Playwright for mobile and desktop search/list/map/detail flows.
+- Review screenshots locally before deployment.
+- Verify GitHub Pages live URL after push.
 
 ## Backlog
 
-- Expand verified artist-level coverage beyond studio-level records.
-- Add richer official embed support where Meta credentials or approved oEmbed access are available.
-- Add user-submitted corrections with a moderation workflow.
-- Add appointment availability, guest spot indicators, and convention/travel filters.
-- Add commercial map tile provider support if traffic exceeds public OSM tile expectations.
-- Add comparison mode, keyboard shortcuts, and advanced style taxonomy search.
-- Add image moderation and rights workflow before any hosted portfolio media is introduced.
+- Broaden portfolio enrichment across more official Bay Area sources.
+- Add manual verification queue for high-value artists/studios with weak source confidence.
+- Add opt-in artist/studio submission flow in a later backend-backed version.
+- Add commercial map tiles if traffic exceeds OSM-friendly usage.
+- Add richer style taxonomy and artist-level profile matching.

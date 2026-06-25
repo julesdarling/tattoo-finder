@@ -1,6 +1,4 @@
-import type { TattooRecord } from '../lib/schema';
-
-export const tattooRecords = [
+[
   {
     "id": "osm-node-8462205099-ndustr-al",
     "kind": "studio",
@@ -47,7 +45,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13760914882-13-bats-tattoo-and-piercing",
@@ -100,7 +99,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309490-29-11-tattoo",
@@ -142,7 +142,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4370393292-7th-son",
@@ -189,7 +190,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6435975113-9-dragons-ink",
@@ -242,7 +244,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8759011760-ace",
@@ -290,7 +293,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290912-aces-tattoo",
@@ -338,7 +342,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311652-adi-mizrahi",
@@ -386,7 +391,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306517-adriana-elfida-garcia",
@@ -433,7 +439,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308649-adrienne-le",
@@ -476,7 +483,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302239-alan-pham",
@@ -519,7 +527,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301103-alejandra-sandoval-veloz",
@@ -567,7 +576,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310499-alex-arizaga-torrez",
@@ -610,7 +620,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311491-alexander-james-stramel",
@@ -653,7 +664,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13402092902-algood-ink-tattoo",
@@ -701,7 +713,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.7000000000000001
+    "confidence": 0.7000000000000001,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310781-alison-do",
@@ -743,7 +756,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5695536648-always-create",
@@ -790,7 +804,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303659-always-create-tattoo-studio",
@@ -838,7 +853,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302778-alyanah-c-alcantara",
@@ -881,7 +897,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301879-amanda-marie-herring",
@@ -923,7 +940,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306241-amanda-trippler",
@@ -971,7 +989,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311352-amilee-jean-duyanen",
@@ -1019,7 +1038,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4684901055-amor-eterno",
@@ -1062,7 +1082,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310333-amy-ann-hufford",
@@ -1105,7 +1126,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-686401369-anchor-tattoo",
@@ -1148,7 +1170,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11105721271-ancient-inc-tattoos",
@@ -1190,7 +1213,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310677-andrea-flores",
@@ -1238,7 +1262,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0261199-andy-johnson",
@@ -1281,7 +1306,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302777-angelica-khristine-tingin",
@@ -1329,7 +1355,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300553-angelique-alize-avila",
@@ -1372,7 +1399,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303672-angie-villanueva",
@@ -1419,7 +1447,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301220-anh-q-nguyen",
@@ -1467,7 +1496,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0287772-anne-michelle-lindstrom",
@@ -1514,7 +1544,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301940-ants-tattoo",
@@ -1562,7 +1593,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0266351-ariel-cruz",
@@ -1610,7 +1642,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310790-arise-ink-tattoo-studio",
@@ -1652,7 +1685,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4077146724-art-of-the-heart-tattoo",
@@ -1699,7 +1733,96 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "81e4f03c76bb607b",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/artofthehearttattoos/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Art Of The Heart Tattoo Instagram portfolio",
+        "alt": "Art Of The Heart Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "1c150b651903ef1c",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.artofthehearttattoo.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Fine Line Tattoos",
+        "alt": "Fine Line Tattoos",
+        "styleTags": [
+          "Fine Line",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/bff04af156a24b13b08adb51c5e6acfc/1/4SoifmQp45JMgBnHiBhVe/GOLDEN%20HOUR%20%25282%2529.png",
+        "thumbnailUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/bff04af156a24b13b08adb51c5e6acfc/1/4SoifmQp45JMgBnHiBhVe/GOLDEN%20HOUR%20%25282%2529.png"
+      },
+      {
+        "id": "ac9c6d471a27c24e",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.artofthehearttattoo.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "June Summer Fun Flash",
+        "alt": "June Summer Fun Flash",
+        "styleTags": [
+          "Flash",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/b0076a8c6c8643c6b9046f4f2263b92a/1/4SoifmQp45JMgBnHiBhVe/GOLDEN%20HOUR%20%25283%2529.png",
+        "thumbnailUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/b0076a8c6c8643c6b9046f4f2263b92a/1/4SoifmQp45JMgBnHiBhVe/GOLDEN%20HOUR%20%25283%2529.png"
+      },
+      {
+        "id": "2e4fe60cb139b257",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.artofthehearttattoo.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Black Minimalistic Tattoos",
+        "alt": "Black Minimalistic Tattoos",
+        "styleTags": [
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/c83ac761dc524974a675ad19bd56095e/1/4SoifmQp45JMgBnHiBhVe/Beige%20And%20Black%20Minimalistic%20Trick%20Or%20Treat%20Halloween%20House%20Poster.png",
+        "thumbnailUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/c83ac761dc524974a675ad19bd56095e/1/4SoifmQp45JMgBnHiBhVe/Beige%20And%20Black%20Minimalistic%20Trick%20Or%20Treat%20Halloween%20House%20Poster.png"
+      },
+      {
+        "id": "7da1e2efd8b56cc2",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.artofthehearttattoo.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "59897.jpg",
+        "alt": "59897.jpg",
+        "styleTags": [
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/f29323acb0d54ddf97f7f52134420af3/1/4SoifmQpDrHbZJ6VybMjS/59897.jpg",
+        "thumbnailUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/f29323acb0d54ddf97f7f52134420af3/1/4SoifmQpDrHbZJ6VybMjS/59897.jpg"
+      }
+    ],
+    "instagram": "https://www.instagram.com/artofthehearttattoos/"
   },
   {
     "id": "scc-fa0282308-art-of-the-heart-tattoo",
@@ -1742,7 +1865,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11311049488-artistic-ink",
@@ -1789,7 +1913,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-386834472-bad-boy-tattoo",
@@ -1832,7 +1957,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5380007322-bay-area-inkscape",
@@ -1880,7 +2006,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310564-benjamin-nguyen",
@@ -1922,7 +2049,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8105025455-berkeley-tattoo",
@@ -1970,7 +2098,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-10936313578-best-day-ever-tattoo",
@@ -2018,7 +2147,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-10605374743-black-blue-tattoo",
@@ -2060,7 +2190,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13768629905-black-blue-tattoo",
@@ -2107,7 +2238,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-112757636-black-heart-tattoo",
@@ -2155,7 +2287,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12242477128-black-lantern-tattoo",
@@ -2198,7 +2331,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4880267580-black-pearl",
@@ -2246,7 +2380,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-206844156-black-rose-tattoo-parlor",
@@ -2299,7 +2434,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-10302060598-black-sea-tattoo",
@@ -2347,7 +2483,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-10555829851-black-serum",
@@ -2394,7 +2531,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11105721303-black-widow-tattoo-studio",
@@ -2436,7 +2574,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311490-blackmoor-tattoo-studio",
@@ -2478,7 +2617,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4908438069-blacksuit-tattoo",
@@ -2531,7 +2671,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0283355-blacksuit-tattoo",
@@ -2574,7 +2715,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3235757580-blood-alley",
@@ -2622,7 +2764,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0283681-blue-rose-tattoo",
@@ -2670,7 +2813,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12816638430-body-manipulations",
@@ -2718,7 +2862,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302582-branda-duong-hua",
@@ -2761,7 +2906,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304967-brandon-ronald-leis",
@@ -2809,7 +2955,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301871-brandon-shane-chiu",
@@ -2857,7 +3004,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290559-breaking-boundaries-tattoo",
@@ -2905,7 +3053,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311350-breana-cortez",
@@ -2947,7 +3096,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309817-briam-miller-maldonado-herrera-the-golden-oak-tattoo-studio",
@@ -2989,7 +3139,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309855-bryan-nguyen",
@@ -3037,7 +3188,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308575-bryanna-solano",
@@ -3080,7 +3232,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-1518988243-buddha-tattoo",
@@ -3128,7 +3281,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11853262053-buddha-s-palm-tattoo",
@@ -3176,7 +3330,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0264223-cali-stylz-tattoos",
@@ -3223,7 +3378,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300339-cam-do",
@@ -3270,7 +3426,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3382505777-capital-ink-tattoo",
@@ -3323,7 +3480,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0268654-carlos-ayala-jr",
@@ -3366,7 +3524,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0268555-carlos-espindola-roldan",
@@ -3414,7 +3573,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309467-carlos-ivan-becerra",
@@ -3456,7 +3616,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13762439046-cash-only-tattoo",
@@ -3499,7 +3660,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11374673835-castro-tattoo",
@@ -3546,7 +3708,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0268478-chapter-tattoo",
@@ -3589,7 +3752,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311281-charlene-marie-feliciano-pham",
@@ -3637,7 +3801,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311268-chase-austin-luna",
@@ -3680,7 +3845,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0299527-chase-patrick-weggeland",
@@ -3728,7 +3894,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304076-chloe-ruth-narancic",
@@ -3771,7 +3938,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311651-chris-carrasco",
@@ -3819,7 +3987,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307810-christopher-adam-gonzalez",
@@ -3862,7 +4031,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309711-claire-kim",
@@ -3909,7 +4079,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11423890607-cleopatra-ink",
@@ -3956,7 +4127,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13097250473-cleopatra-tattoo",
@@ -4004,7 +4176,116 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "04e33dfcebdc429e",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/cleopatraink/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Cleopatra Tattoo Instagram portfolio",
+        "alt": "Cleopatra Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "586009d7464ecb6c",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/cleopatrainkberkeley/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Cleopatra Tattoo Instagram portfolio",
+        "alt": "Cleopatra Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "51949d99ea6d04d2",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Cleopatra Tattoo portfolio work",
+        "alt": "Cleopatra Tattoo portfolio work",
+        "styleTags": [
+          "Blackwork",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://boapi.cleopatraink.com/images/5b758fe5-0974-4a6c-a1f7-92f40a181c5e.jpg",
+        "thumbnailUrl": "https://boapi.cleopatraink.com/images/5b758fe5-0974-4a6c-a1f7-92f40a181c5e.jpg"
+      },
+      {
+        "id": "977dd7d0c1c1833b",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Cleopatra Tattoo portfolio work",
+        "alt": "Cleopatra Tattoo portfolio work",
+        "styleTags": [
+          "Blackwork",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://boapi.cleopatraink.com/images/e7bc1ecf-197c-430c-8c7c-ee9508deef45.jpg",
+        "thumbnailUrl": "https://boapi.cleopatraink.com/images/e7bc1ecf-197c-430c-8c7c-ee9508deef45.jpg"
+      },
+      {
+        "id": "9ab387b7e022908e",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Cleopatra Tattoo portfolio work",
+        "alt": "Cleopatra Tattoo portfolio work",
+        "styleTags": [
+          "Blackwork",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://boapi.cleopatraink.com/images/4de7a51a-590e-417f-bbd5-ea43db0a6c0b.jpg",
+        "thumbnailUrl": "https://boapi.cleopatraink.com/images/4de7a51a-590e-417f-bbd5-ea43db0a6c0b.jpg"
+      },
+      {
+        "id": "7758c3860be73eb3",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.cleopatraink.com/en/studios/berkeley-tattoo-and-piercing-studio",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Cleopatra Tattoo portfolio work",
+        "alt": "Cleopatra Tattoo portfolio work",
+        "styleTags": [
+          "Blackwork",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://boapi.cleopatraink.com/images/74e3ba33-404b-4618-a036-b4f37b621ebd.jpg",
+        "thumbnailUrl": "https://boapi.cleopatraink.com/images/74e3ba33-404b-4618-a036-b4f37b621ebd.jpg"
+      }
+    ],
+    "instagram": "https://www.instagram.com/cleopatraink/"
   },
   {
     "id": "osm-node-11777394301-cloud95",
@@ -4056,7 +4337,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6780093114-cold-steel",
@@ -4108,7 +4390,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265148-colin-baker",
@@ -4156,7 +4439,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302999-conviction-tattoo",
@@ -4199,7 +4483,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300448-coral-paul",
@@ -4246,7 +4531,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0289846-corey-nguyen",
@@ -4289,7 +4575,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12648197127-corvis-tattoo",
@@ -4337,7 +4624,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0288311-cristina-giron",
@@ -4380,7 +4668,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6496491408-crow-s-nest-tattoo",
@@ -4422,7 +4711,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0291691-cruz-creations-tattoo",
@@ -4465,7 +4755,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0294457-crystal-kit-ping-le",
@@ -4513,7 +4804,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265711-crystel-monique-vasquez",
@@ -4556,7 +4848,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310354-cuauhtemoc-alejandro-daza",
@@ -4604,7 +4897,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0269193-current-tattooing",
@@ -4652,7 +4946,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13841164650-cyclops-tattoo",
@@ -4700,7 +4995,114 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "eba061a5b8492d0d",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://cyclopstattoo.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Jason Stein",
+        "alt": "Jason Stein",
+        "styleTags": [
+          "Blackwork",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://www.cyclopstattoo.com/wp-content/uploads/2018/02/JASON-LINK.png",
+        "thumbnailUrl": "https://www.cyclopstattoo.com/wp-content/uploads/2018/02/JASON-LINK.png"
+      },
+      {
+        "id": "84c4840d8c8898f3",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://cyclopstattoo.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Sweet Cicely Daniher",
+        "alt": "Sweet Cicely Daniher",
+        "styleTags": [
+          "Blackwork",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://www.cyclopstattoo.com/wp-content/uploads/2018/02/CICELY-LINK.png",
+        "thumbnailUrl": "https://www.cyclopstattoo.com/wp-content/uploads/2018/02/CICELY-LINK.png"
+      },
+      {
+        "id": "f49095d9d0ea0a04",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/C8nk4zjP7nd/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Cyclops Tattoo Instagram portfolio post",
+        "alt": "Cyclops Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "f68a5503b1ff739a",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/C5pQPdGxk1f/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Cyclops Tattoo Instagram portfolio post",
+        "alt": "Cyclops Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "94db89d1b579d1ae",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/C4_mhDqSQPO/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Cyclops Tattoo Instagram portfolio post",
+        "alt": "Cyclops Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "eeb5e4365c99b43a",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/C3jBXMnPfzK/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Cyclops Tattoo Instagram portfolio post",
+        "alt": "Cyclops Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      }
+    ],
+    "instagram": "https://www.instagram.com/jstein222/"
   },
   {
     "id": "osm-node-2882781054-da-wei-tattoo",
@@ -4748,7 +5150,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-706231376-damaged-lifestyle",
@@ -4791,7 +5194,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307221-dang-khoa-ho",
@@ -4834,7 +5238,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0305937-danh-truong-bui",
@@ -4877,7 +5282,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0268480-danny-sun",
@@ -4925,7 +5331,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0260040-darius-agustin",
@@ -4967,7 +5374,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4583405663-dark-water",
@@ -5019,7 +5427,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0294238-dat-nguyen",
@@ -5062,7 +5471,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0280341-david-mayorga",
@@ -5109,7 +5519,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290890-davis-bui",
@@ -5150,7 +5561,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5125457881-death-before-dishonor-tatoos",
@@ -5193,7 +5605,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0277611-denise-d-wong",
@@ -5235,7 +5648,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302959-derek-david-chan",
@@ -5278,7 +5692,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304607-destin-trang",
@@ -5320,7 +5735,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311351-devyn-huan-bui",
@@ -5368,7 +5784,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307069-diem-phuong-nguyen",
@@ -5411,7 +5828,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3165906669-diving-swallow",
@@ -5453,7 +5871,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12748318699-dollhouse-tattoo-shop",
@@ -5501,7 +5920,27 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "3dd948a981c6e094",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/dollhouse.tattoo/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Dollhouse Tattoo Shop Instagram portfolio",
+        "alt": "Dollhouse Tattoo Shop official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Flash",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ],
+    "instagram": "https://www.instagram.com/dollhouse.tattoo/"
   },
   {
     "id": "osm-node-12397141007-dougs-tattoos",
@@ -5544,7 +5983,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3986855423-dream-masters-custom-tattoos",
@@ -5592,7 +6032,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0283004-drew-glover-burgy",
@@ -5635,7 +6076,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290872-dung-kim-huynh",
@@ -5678,7 +6120,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290560-dung-vo",
@@ -5720,7 +6163,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310673-dylan-zurahi-heredia",
@@ -5762,7 +6206,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311110-dyllan-shipley",
@@ -5804,7 +6249,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303193-eduardo-valencia",
@@ -5852,7 +6298,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309646-eleven15-tattoo-studio",
@@ -5900,7 +6347,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303247-eleventh-dimension-tattoo-arts",
@@ -5943,7 +6391,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310597-elijah-thomas",
@@ -5991,7 +6440,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303419-emily-li-he",
@@ -6039,7 +6489,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306210-emily-vanuy",
@@ -6082,7 +6533,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303081-emma-mayorga-torres",
@@ -6130,7 +6582,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302406-emmanuel-torres",
@@ -6178,7 +6631,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290778-enoc-de-la-rocha",
@@ -6221,7 +6675,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311054-ethan-kane-damron",
@@ -6268,7 +6723,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4548639069-everlasting-tattoo",
@@ -6316,7 +6772,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4017234515-eye-of-the-tiger",
@@ -6359,7 +6816,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-547321957-faith-tattoo",
@@ -6405,7 +6863,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0289746-fanghai-guo",
@@ -6447,7 +6906,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12774289806-fearless-tattoo",
@@ -6490,7 +6950,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310850-felipe-jimenez-evaristo",
@@ -6537,7 +6998,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308089-filipp-khislavskii",
@@ -6585,7 +7047,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5328563041-final-sin-tattoo",
@@ -6633,7 +7096,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308086-flora-tattoo-studio",
@@ -6680,7 +7144,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310364-flourish-tattoo-foliage",
@@ -6723,7 +7188,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300534-francis-gagni",
@@ -6766,7 +7232,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303496-francisco-xavier-graciano",
@@ -6814,7 +7281,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6689797963-freddy-corbin-s",
@@ -6862,7 +7330,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-2056745035-frisco-tattoo",
@@ -6910,7 +7379,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-9948792858-frisco-tattoo",
@@ -6964,7 +7434,26 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.8200000000000001
+    "confidence": 0.8200000000000001,
+    "portfolioItems": [
+      {
+        "id": "a3bc226659151005",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/friscotattoosf/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Frisco Tattoo Instagram portfolio",
+        "alt": "Frisco Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ]
   },
   {
     "id": "osm-node-9985317461-g-spot-ink",
@@ -7012,7 +7501,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311056-gabriella-emma-fedetto",
@@ -7059,7 +7549,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310846-gabrielle-catipon",
@@ -7102,7 +7593,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300768-genesis-tapia-mares",
@@ -7145,7 +7637,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12798640627-gifted-spider-tattoo",
@@ -7192,7 +7685,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-10065948612-gilded-ink-tattoos",
@@ -7239,7 +7733,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-416567877-gilded-lilly-tattoo",
@@ -7282,7 +7777,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-699519856-glass-beetle-tattoo-and-loops-piercing",
@@ -7329,7 +7825,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-10610388063-gold-leaf-ink",
@@ -7372,7 +7869,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13838029501-good-luck-tattoo",
@@ -7420,7 +7918,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309496-grace-melia-lu",
@@ -7467,7 +7966,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310663-grace-tran-le",
@@ -7510,7 +8010,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12975171644-graven-image-tattoo-studio",
@@ -7558,7 +8059,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0262620-gualberto-flores",
@@ -7606,7 +8108,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309488-guo-yu",
@@ -7649,7 +8152,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3801395647-haight-ashbury-tattoo-piercing",
@@ -7696,7 +8200,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13022306660-hidden-coast-tattoo",
@@ -7749,7 +8254,119 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "7940903803e77123",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://aaronhodgesart.com/section/161233.html",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "2017 Tattoos",
+        "alt": "2017 Tattoos",
+        "styleTags": [
+          "Fine line",
+          "Color"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/RQNFFNSpu_4j2a66.jpg",
+        "thumbnailUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/RQNFFNSpu_4j2a66.jpg"
+      },
+      {
+        "id": "50ec9207b55e5026",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://aaronhodgesart.com/section/161233.html",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "2016 tattoos",
+        "alt": "2016 tattoos",
+        "styleTags": [
+          "Fine line",
+          "Color"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/4TaCZB1hJw4wt5EI.jpg",
+        "thumbnailUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/4TaCZB1hJw4wt5EI.jpg"
+      },
+      {
+        "id": "3dd7d156249d3641",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://aaronhodgesart.com/section/161233.html",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Tattoos",
+        "alt": "Tattoos",
+        "styleTags": [
+          "Fine line",
+          "Color"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/hqp5Ig9fOOQP5CMb.jpg",
+        "thumbnailUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/hqp5Ig9fOOQP5CMb.jpg"
+      },
+      {
+        "id": "ae8c5fdc63580cfe",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://aaronhodgesart.com/section/161233.html",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Flash 2015",
+        "alt": "Flash 2015",
+        "styleTags": [
+          "Flash",
+          "Fine line",
+          "Color"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.6,
+        "mediaUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/OEO4VSFaIZ2Fl_OD.jpg",
+        "thumbnailUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/OEO4VSFaIZ2Fl_OD.jpg"
+      },
+      {
+        "id": "d5e6e376ff6814f8",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://aaronhodgesart.com/section/161233.html",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Flash",
+        "alt": "Flash",
+        "styleTags": [
+          "Flash",
+          "Fine line",
+          "Color"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.6,
+        "mediaUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/M6j3HcKj_T2WABZK.jpg",
+        "thumbnailUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/M6j3HcKj_T2WABZK.jpg"
+      },
+      {
+        "id": "b62f975b3c73aee8",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://aaronhodgesart.com/section/161233.html",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Water color",
+        "alt": "Water color",
+        "styleTags": [
+          "Color",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.6,
+        "mediaUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/llrEFXj5SN0r5VnJ.jpg",
+        "thumbnailUrl": "https://img-cache.oppcdn.com/fixed/20948/assets/llrEFXj5SN0r5VnJ.jpg"
+      }
+    ]
   },
   {
     "id": "scc-fa0274890-hiram-carrillo-flores",
@@ -7796,7 +8413,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300896-hoa-dang",
@@ -7843,7 +8461,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303261-hoang-minh-tam-nguyen",
@@ -7891,7 +8510,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11832231061-hold-fast",
@@ -7939,7 +8559,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0286123-homeroom-tattoo",
@@ -7982,7 +8603,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6709187217-honeymoon-tattoo",
@@ -8030,7 +8652,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5732669136-hot-ink-tattoos",
@@ -8083,7 +8706,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0287900-humble-beginnings-tattoo",
@@ -8131,7 +8755,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5180870592-idle-hand",
@@ -8178,7 +8803,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4071080891-iji-emporium",
@@ -8221,7 +8847,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311138-ilaha-hajiyeva",
@@ -8264,7 +8891,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310659-ima-tattoo",
@@ -8312,7 +8940,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8442146863-ink-now",
@@ -8355,7 +8984,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310728-inklings-tattoo-studio",
@@ -8397,7 +9027,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4220797204-international-tattoo",
@@ -8444,7 +9075,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8648378120-irezumi-tattoo-studio",
@@ -8487,7 +9119,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304217-iyvonne-ngoc-nhang-nguyen",
@@ -8535,7 +9168,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311653-izabella-grace-tacci",
@@ -8578,7 +9212,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309048-jahlanii-maizoua-yang-buada",
@@ -8626,7 +9261,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309231-jairo-alonso-chavez",
@@ -8667,7 +9303,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309714-jared-jon-mulic",
@@ -8709,7 +9346,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0273439-jasmine-crystal-fuller",
@@ -8752,7 +9390,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0261216-jason-nathaniel-litral",
@@ -8794,7 +9433,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310042-javier-eduardo-suarez-rosales",
@@ -8842,7 +9482,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11389265212-jay-s-fine-line-tattoo",
@@ -8890,7 +9531,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310664-jennie-tran-nguyen",
@@ -8938,7 +9580,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0274347-jennifer-r-kelso",
@@ -8985,7 +9628,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309366-jenny-thao-tran",
@@ -9033,7 +9677,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309856-jeremiah-erwin",
@@ -9076,7 +9721,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301611-jeremy-camposanto",
@@ -9118,7 +9764,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290878-jerry-moran",
@@ -9161,7 +9808,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306550-jessica-daniels",
@@ -9203,7 +9851,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306776-jessica-lynn-palaya",
@@ -9251,7 +9900,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311005-jesus-carbajal-morales",
@@ -9294,7 +9944,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303303-jesus-fernando-pinzon-arias",
@@ -9337,7 +9988,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309438-jia-hao-ng",
@@ -9384,7 +10036,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301945-jiayi-li",
@@ -9426,7 +10079,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300407-jocelyn-viray",
@@ -9468,7 +10122,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0272063-joe-samatua",
@@ -9516,7 +10171,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0280301-johanna-lee-murazzo",
@@ -9558,7 +10214,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0251702-john-bullock",
@@ -9606,7 +10263,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0283298-jonathan-barrientos",
@@ -9654,7 +10312,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0283595-jordan-pierre-a-gabriel",
@@ -9702,7 +10361,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0305470-jorge-contreras",
@@ -9744,7 +10404,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0264844-jose-castillo",
@@ -9792,7 +10453,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0272104-jose-cervantes",
@@ -9839,7 +10501,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0264224-jose-lopez",
@@ -9882,7 +10545,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310081-jose-velasques",
@@ -9924,7 +10588,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309228-joseantonio-e-suarez-lopez",
@@ -9972,7 +10637,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309230-joselyn-maguellal",
@@ -10014,7 +10680,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300867-joseph-abel-martinez-apodaca",
@@ -10062,7 +10729,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0271938-joseph-gonzales",
@@ -10110,7 +10778,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304218-josephine-chan",
@@ -10153,7 +10822,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0268191-josh-medeiros",
@@ -10196,7 +10866,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0269151-joshua-t-stubblefield",
@@ -10239,7 +10910,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309367-joyce-g-qiao",
@@ -10282,7 +10954,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301622-joyce-zhang",
@@ -10330,7 +11003,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311198-juliana-lopez",
@@ -10372,7 +11046,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307243-kaitlyn-marie-crume",
@@ -10415,7 +11090,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265165-kazuaki-kitamura",
@@ -10458,7 +11134,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0271289-kenny-brown",
@@ -10506,7 +11183,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307666-kevin-kwong",
@@ -10549,7 +11227,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304612-khang-n-phung",
@@ -10591,7 +11270,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302849-kholay-noelle-madison",
@@ -10639,7 +11319,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311272-kieu-c-nguyen",
@@ -10682,7 +11363,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300473-kim-truc-huynh",
@@ -10730,7 +11412,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304616-kimi-jean-walters",
@@ -10778,7 +11461,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310789-kiyun-cha",
@@ -10826,7 +11510,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306933-krystle-jozen-o-dario",
@@ -10874,7 +11559,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308088-kseniia-khislavskaia",
@@ -10922,7 +11608,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0276527-kt-dragon-tattoo",
@@ -10969,7 +11656,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309966-kyle-joseph-ruiz",
@@ -11012,7 +11700,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12985765390-la-rosa-tattoo",
@@ -11064,7 +11753,108 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "89f1adb6f4de6abe",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/larosatattoosf/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "La Rosa Tattoo Instagram portfolio",
+        "alt": "La Rosa Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "f38ef5c04b38aedd",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/roco.fornazar/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "La Rosa Tattoo Instagram portfolio",
+        "alt": "La Rosa Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "88bcc645db381692",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/ivenko.alinaa/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "La Rosa Tattoo Instagram portfolio",
+        "alt": "La Rosa Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "1f2a91293337a44d",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/grinch_tatts/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "La Rosa Tattoo Instagram portfolio",
+        "alt": "La Rosa Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "7c8e6ba2b1e8526e",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://larosatattoosf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "La Rosa Tattoo portfolio work",
+        "alt": "La Rosa Tattoo portfolio work",
+        "styleTags": [
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://larosatattoosf.com/wp-content/uploads/2025/04/Untitled_Artwork-1-2-1024x1024.png",
+        "thumbnailUrl": "https://larosatattoosf.com/wp-content/uploads/2025/04/Untitled_Artwork-1-2-1024x1024.png"
+      },
+      {
+        "id": "0017e8de927e6d32",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://larosatattoosf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "La Rosa Tattoo portfolio work",
+        "alt": "La Rosa Tattoo portfolio work",
+        "styleTags": [
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://larosatattoosf.com/wp-content/uploads/2025/04/DSC_0086-scaled.jpg",
+        "thumbnailUrl": "https://larosatattoosf.com/wp-content/uploads/2025/04/DSC_0086-scaled.jpg"
+      }
+    ],
+    "instagram": "https://www.instagram.com/larosatattoosf/"
   },
   {
     "id": "scc-fa0301614-lancing-love-chen",
@@ -11107,7 +11897,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311033-lang-chen",
@@ -11150,7 +11941,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311109-lauren-grande",
@@ -11193,7 +11985,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303105-lawrence-abed",
@@ -11236,7 +12029,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5134426239-legacy-tattoo",
@@ -11278,7 +12072,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0263142-leo-cardenas",
@@ -11320,7 +12115,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3895865323-leonardi-tattoo",
@@ -11367,7 +12163,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4022689969-let-it-bleed",
@@ -11414,7 +12211,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302593-levi-christopher-carver",
@@ -11462,7 +12260,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301754-lezzly-valencia",
@@ -11505,7 +12304,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12467539156-lifestyle-ink-tattoo-studio",
@@ -11548,7 +12348,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308558-lilyann-hoang",
@@ -11591,7 +12392,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304270-lin-ou",
@@ -11633,7 +12435,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301022-linh-le-tran",
@@ -11675,7 +12478,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302576-linh-tran",
@@ -11717,7 +12521,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310761-linh-chi-nguyen",
@@ -11765,7 +12570,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303157-loi-ho",
@@ -11812,7 +12618,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0277609-long-quoc-nguyen",
@@ -11855,7 +12662,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306460-louise-chin-man-yan",
@@ -11902,7 +12710,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-2716421237-lovedog-tattoos",
@@ -11945,7 +12754,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8403476958-lucid-illusions-tattoo",
@@ -11988,7 +12798,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309492-lucid-illusions-tattoo",
@@ -12031,7 +12842,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-9770452271-lucky-stars-tattoo",
@@ -12074,7 +12886,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311716-luis-antonio-sterling-ricardo",
@@ -12122,7 +12935,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0291094-luna-tattoo-studio",
@@ -12170,7 +12984,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0299496-lyly-ha",
@@ -12218,7 +13033,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302055-lynn-tong-huang",
@@ -12261,7 +13077,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302895-mabel-wei-wang",
@@ -12309,7 +13126,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11110984179-magnetic-arts",
@@ -12356,7 +13174,111 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "4a2f4372f0201dca",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/magneticarts/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Magnetic Arts Instagram portfolio",
+        "alt": "Magnetic Arts official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "f755354ba52320c4",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.magneticarts.tattoo/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Magnetic Arts portfolio work",
+        "alt": "Magnetic Arts portfolio work",
+        "styleTags": [
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a22315f9b3291a77c8a29_media.jpg",
+        "thumbnailUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a22315f9b3291a77c8a29_media.jpg"
+      },
+      {
+        "id": "9e11c0f25455d077",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.magneticarts.tattoo/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Magnetic Arts portfolio work",
+        "alt": "Magnetic Arts portfolio work",
+        "styleTags": [
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a223efac51975134f1b2a_PXL_20230820_235713510~2.jpg",
+        "thumbnailUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a223efac51975134f1b2a_PXL_20230820_235713510~2.jpg"
+      },
+      {
+        "id": "2d6497a6d24030a8",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.magneticarts.tattoo/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Magnetic Arts portfolio work",
+        "alt": "Magnetic Arts portfolio work",
+        "styleTags": [
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a223e0ed1caf26c88be80_PXL_20230827_235904345~2.jpg",
+        "thumbnailUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a223e0ed1caf26c88be80_PXL_20230827_235904345~2.jpg"
+      },
+      {
+        "id": "6f9cadb74d3c34b5",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.magneticarts.tattoo/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Magnetic Arts portfolio work",
+        "alt": "Magnetic Arts portfolio work",
+        "styleTags": [
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a223e02b15134a158aad0_PXL_20230828_050042417~2.jpg",
+        "thumbnailUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/676a223e02b15134a158aad0_PXL_20230828_050042417~2.jpg"
+      },
+      {
+        "id": "bff78dc088c8148c",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.magneticarts.tattoo/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Magnetic Arts portfolio work",
+        "alt": "Magnetic Arts portfolio work",
+        "styleTags": [
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/6527accc3386dc06afbb6a68_Violeta%20-MA.jpg",
+        "thumbnailUrl": "https://cdn.prod.website-files.com/64ccc5b52524219798fc689e/6527accc3386dc06afbb6a68_Violeta%20-MA.jpg"
+      }
+    ],
+    "instagram": "https://www.instagram.com/magneticarts/"
   },
   {
     "id": "osm-node-6373068179-manus-lux-tattoo",
@@ -12398,7 +13320,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0276221-marcus-herrera",
@@ -12446,7 +13369,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310102-maria-guadalupe-garcia",
@@ -12493,7 +13417,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311862-marian-jeanel-ramos-pascual",
@@ -12536,7 +13461,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309137-marisa-charlene-biddle",
@@ -12584,7 +13510,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0281604-mars-ink-tattoo-studio-llc",
@@ -12631,7 +13558,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0264420-martin-roberson",
@@ -12674,7 +13602,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0254909-marty-maaske",
@@ -12721,7 +13650,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0285680-mary-nguyen",
@@ -12768,7 +13698,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307070-mary-quynh-ngoc-vu",
@@ -12811,7 +13742,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0275676-mary-vy-le",
@@ -12859,7 +13791,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-393124821-masterpiece-tattoo",
@@ -12912,7 +13845,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13950540659-masterpiece-tattoos",
@@ -12959,7 +13893,118 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "c6e4971d06a3856a",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/masterpiecetattooss/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Masterpiece Tattoos Instagram portfolio",
+        "alt": "Masterpiece Tattoos official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "51c535c934f8e48f",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://masterpiecetattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Masterpiece Tattoos portfolio work",
+        "alt": "Masterpiece Tattoos portfolio work",
+        "styleTags": [
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://masterpiecetattoos.com/wp-content/uploads/2024/05/1-best-cat-portrait-tattoo-artist-san-francisco-bay-area-california-300x300.jpg",
+        "thumbnailUrl": "https://masterpiecetattoos.com/wp-content/uploads/2024/05/1-best-cat-portrait-tattoo-artist-san-francisco-bay-area-california-300x300.jpg"
+      },
+      {
+        "id": "7a4b001b5b777bd2",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://masterpiecetattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "color realism tattoo artist San Francisco bay area",
+        "alt": "color realism tattoo artist San Francisco bay area",
+        "styleTags": [
+          "Color",
+          "Realism",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.73,
+        "mediaUrl": "https://masterpiecetattoos.com/wp-content/uploads/2024/05/1-best-tiger-tattoo-artist-san-francisco-bay-area-california-197x300.jpg",
+        "thumbnailUrl": "https://masterpiecetattoos.com/wp-content/uploads/2024/05/1-best-tiger-tattoo-artist-san-francisco-bay-area-california-197x300.jpg"
+      },
+      {
+        "id": "1ce9f16161f2fa34",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://masterpiecetattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "color portrait tattoo artist San Francisco bay area",
+        "alt": "color portrait tattoo artist San Francisco bay area",
+        "styleTags": [
+          "Color",
+          "Realism",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.73,
+        "mediaUrl": "https://masterpiecetattoos.com/wp-content/uploads/2024/05/1-realism-tattoos-artist-San-Francisco-bay-area-300x300.jpg",
+        "thumbnailUrl": "https://masterpiecetattoos.com/wp-content/uploads/2024/05/1-realism-tattoos-artist-San-Francisco-bay-area-300x300.jpg"
+      },
+      {
+        "id": "607e09c6ac7f5f70",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://masterpiecetattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "best color realism tattoo artist bay area",
+        "alt": "best color realism tattoo artist bay area",
+        "styleTags": [
+          "Color",
+          "Realism",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.73,
+        "mediaUrl": "https://masterpiecetattoos.com/wp-content/uploads/2026/05/best-color-galaxy-tattoo-artist-bay-area-300x300.jpg",
+        "thumbnailUrl": "https://masterpiecetattoos.com/wp-content/uploads/2026/05/best-color-galaxy-tattoo-artist-bay-area-300x300.jpg"
+      },
+      {
+        "id": "27d41b97432be3ed",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://masterpiecetattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "best black and grey realism tattoo artist",
+        "alt": "best black and grey realism tattoo artist",
+        "styleTags": [
+          "Realism",
+          "Illustrative"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.73,
+        "mediaUrl": "https://masterpiecetattoos.com/wp-content/uploads/2026/05/best-black-and-grey-realism-tattoo-artist-300x300.jpg",
+        "thumbnailUrl": "https://masterpiecetattoos.com/wp-content/uploads/2026/05/best-black-and-grey-realism-tattoo-artist-300x300.jpg"
+      }
+    ],
+    "instagram": "https://www.instagram.com/masterpiecetattooss/"
   },
   {
     "id": "scc-fa0299738-matthew-bustamante",
@@ -13007,7 +14052,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0299688-matthew-diaz",
@@ -13055,7 +14101,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290411-matthew-lee-tillman",
@@ -13103,7 +14150,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0260962-matthew-shamah",
@@ -13146,7 +14194,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304606-melissa-yasemin-searle",
@@ -13188,7 +14237,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309648-melody-colombini",
@@ -13235,7 +14285,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13801108788-memento-mori-tattoo",
@@ -13289,7 +14340,100 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.8200000000000001
+    "confidence": 0.8200000000000001,
+    "portfolioItems": [
+      {
+        "id": "02c65442bebc2e5e",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/memento.mori.tattoo/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Memento Mori Tattoo Instagram portfolio",
+        "alt": "Memento Mori Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line",
+          "Lettering"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "09a0f79f1d00ccf2",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://mementomoritattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Memento Mori Tattoo portfolio work",
+        "alt": "Memento Mori Tattoo portfolio work",
+        "styleTags": [
+          "Custom",
+          "Lettering",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/Mem_Mori_Coming_Soon_FB_Post_V2.jpg/:/rs=h:131,cg:true,m/qt=q:95",
+        "thumbnailUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/Mem_Mori_Coming_Soon_FB_Post_V2.jpg/:/rs=h:131,cg:true,m/qt=q:95"
+      },
+      {
+        "id": "f8aa0dc1a9259872",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://mementomoritattoos.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Memento Mori Tattoo portfolio work",
+        "alt": "Memento Mori Tattoo portfolio work",
+        "styleTags": [
+          "Custom",
+          "Lettering",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/IMG_0859.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+        "thumbnailUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/IMG_0859.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25"
+      },
+      {
+        "id": "01688d97f1b70abe",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://mementomoritattoos.com/artists",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Memento Mori Tattoo portfolio work",
+        "alt": "Memento Mori Tattoo portfolio work",
+        "styleTags": [
+          "Lettering",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/Mem_Mori_Coming_Soon_FB_Post_V2.jpg/:/rs=h:105,cg:true,m/qt=q:95",
+        "thumbnailUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/Mem_Mori_Coming_Soon_FB_Post_V2.jpg/:/rs=h:105,cg:true,m/qt=q:95"
+      },
+      {
+        "id": "41c7cfa4003280e7",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://mementomoritattoos.com/artists",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Memento Mori Tattoo portfolio work",
+        "alt": "Memento Mori Tattoo portfolio work",
+        "styleTags": [
+          "Lettering",
+          "Fine line"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.81,
+        "mediaUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/IMG_0860.jpeg/:/cr=t:33.66%25,l:11.84%25,w:43.1%25,h:28.72%25/rs=w:365,h:365,cg:true,m/fx-gs",
+        "thumbnailUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/IMG_0860.jpeg/:/cr=t:33.66%25,l:11.84%25,w:43.1%25,h:28.72%25/rs=w:365,h:365,cg:true,m/fx-gs"
+      }
+    ]
   },
   {
     "id": "scc-fa0281619-michael-aveno",
@@ -13332,7 +14476,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265692-michael-cory-majors",
@@ -13380,7 +14525,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309370-michael-mcclung",
@@ -13427,7 +14573,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309365-michelle-sagun-barba",
@@ -13469,7 +14616,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13841945502-midtown-tattoo",
@@ -13517,7 +14665,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311280-mikkayla-rozz-aradanas-syquio",
@@ -13565,7 +14714,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309698-miriam-chen-lin",
@@ -13608,7 +14758,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12995391975-mis-raices-studio",
@@ -13656,7 +14807,27 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "5d2ba9e2e6ddf2d2",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/misraices.studio/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Mis Raices Studio Instagram portfolio",
+        "alt": "Mis Raices Studio official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ],
+    "instagram": "https://www.instagram.com/misraices.studio/"
   },
   {
     "id": "osm-node-3273908272-mission-ink",
@@ -13704,7 +14875,120 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "cd8fd883c1be4820",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.missioninksf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Mission Ink portfolio work",
+        "alt": "Mission Ink portfolio work",
+        "styleTags": [
+          "Realism",
+          "Traditional",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/tiger-realism-tattoo_orig-1920w.jpg",
+        "thumbnailUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/tiger-realism-tattoo_orig-1920w.jpg"
+      },
+      {
+        "id": "d54b566729f4d5e4",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.missioninksf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Mission Ink portfolio work",
+        "alt": "Mission Ink portfolio work",
+        "styleTags": [
+          "Color",
+          "Realism",
+          "Traditional",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/color-realism_orig-1920w.jpeg",
+        "thumbnailUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/color-realism_orig-1920w.jpeg"
+      },
+      {
+        "id": "741d1d2831f4fb71",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.missioninksf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Mission Ink portfolio work",
+        "alt": "Mission Ink portfolio work",
+        "styleTags": [
+          "Traditional",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/black-and-grey-tattoo_orig-1920w.jpg",
+        "thumbnailUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/black-and-grey-tattoo_orig-1920w.jpg"
+      },
+      {
+        "id": "ef5a5bb68db633e8",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.missioninksf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Mission Ink portfolio work",
+        "alt": "Mission Ink portfolio work",
+        "styleTags": [
+          "Traditional",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/ariel-flower-tattoo_1_orig-1920w.jpg",
+        "thumbnailUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/ariel-flower-tattoo_1_orig-1920w.jpg"
+      },
+      {
+        "id": "9be5b6ee74b6ab2d",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.missioninksf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Mission Ink portfolio work",
+        "alt": "Mission Ink portfolio work",
+        "styleTags": [
+          "Traditional",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/samurai-tattoo_orig-1920w.jpg",
+        "thumbnailUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/samurai-tattoo_orig-1920w.jpg"
+      },
+      {
+        "id": "005ec14ba579c06f",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.missioninksf.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Mission Ink portfolio work",
+        "alt": "Mission Ink portfolio work",
+        "styleTags": [
+          "Traditional",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/metal-phoenix-tattoo_orig-1920w.png",
+        "thumbnailUrl": "https://lirp.cdn-website.com/5ea59684/dms3rep/multi/opt/metal-phoenix-tattoo_orig-1920w.png"
+      }
+    ]
   },
   {
     "id": "osm-way-699008374-mission-street-tattoo-piercing",
@@ -13757,7 +15041,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13725904219-mo-tattoo",
@@ -13805,7 +15090,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6399956385-modern-electric",
@@ -13848,7 +15134,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306244-mol-far-tattoo",
@@ -13896,7 +15183,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4359127591-mom-s-body-shop",
@@ -13948,7 +15236,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4486115704-monsters-ink",
@@ -14000,7 +15289,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3393384948-moth-dagger-tattoo",
@@ -14052,7 +15342,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0285672-nashelly-perez",
@@ -14099,7 +15390,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0293892-nathan-j-rivera",
@@ -14147,7 +15439,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311863-nathaniel-perez",
@@ -14195,7 +15488,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11147659123-natural-selection",
@@ -14243,7 +15537,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307222-nevaeh-amayah-vicencio",
@@ -14291,7 +15586,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8648300403-new-generation-tattoo",
@@ -14338,7 +15634,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303914-nga-hong-le",
@@ -14380,7 +15677,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307703-ngoc-tram-anh-ho",
@@ -14423,7 +15721,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307976-nguyen-celine",
@@ -14471,7 +15770,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300881-nicholas-dimitri-bongiorno",
@@ -14519,7 +15819,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0273843-nick-michael-dillard",
@@ -14562,7 +15863,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290808-nicole-ai-nhi-cu",
@@ -14610,7 +15912,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4030526509-nightshade-studios",
@@ -14658,7 +15961,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303899-no-11-tattoo-studio",
@@ -14706,7 +16010,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304479-noble-trinity-tattoo",
@@ -14749,7 +16054,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12800921984-nonotattoo-collective",
@@ -14797,7 +16103,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307166-november-wilker",
@@ -14840,7 +16147,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8258655187-nyou-image-ink",
@@ -14883,7 +16191,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-265275727-o-reilly-s-tattoo-parlor",
@@ -14931,7 +16240,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3927998684-oakland-ink",
@@ -14974,7 +16284,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8641835227-ocean-avenue-tattoo",
@@ -15021,7 +16332,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13097404823-old-crow-tattoo",
@@ -15074,7 +16386,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5567351720-old-english",
@@ -15122,7 +16435,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-2051836123-old-town",
@@ -15169,7 +16483,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0294166-oliver-nocon-prestosa",
@@ -15212,7 +16527,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3667880932-one-shot-tattoo",
@@ -15260,7 +16576,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-1059650145-only-skin-deep",
@@ -15308,7 +16625,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303083-orfanel-araujo",
@@ -15356,7 +16674,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0262321-orly-locquiao",
@@ -15399,7 +16718,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0269720-osvaldo-a-baron",
@@ -15441,7 +16761,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8498170935-paradise-tattoo",
@@ -15484,7 +16805,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309713-paul-pham",
@@ -15527,7 +16849,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310679-pedro-jesus-garduno",
@@ -15574,7 +16897,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0287715-philip-james-rowland",
@@ -15617,7 +16941,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12750336884-philthy-clean-tattoo",
@@ -15665,7 +16990,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290871-phuc-minh-vo",
@@ -15713,7 +17039,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308755-phuong-pham",
@@ -15755,7 +17082,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-286270200-picture-machine",
@@ -15808,7 +17136,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-708351150-ponderosa-tattoo",
@@ -15851,7 +17180,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11070552469-premium-clan-tattoo-studio",
@@ -15894,7 +17224,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303495-pura-tinta-tattoo-studio",
@@ -15937,7 +17268,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8288079897-pyramid-tattoo",
@@ -15984,7 +17316,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302342-quan-nguyen",
@@ -16027,7 +17360,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290869-quang-vinh-do",
@@ -16075,7 +17409,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311055-quetzalli-jimenez",
@@ -16122,7 +17457,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301953-rachel-solidarios-altamirano",
@@ -16165,7 +17501,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0259874-rafael-hernandez",
@@ -16208,7 +17545,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309486-raul-ramirez",
@@ -16256,7 +17594,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0307167-raymond-zamora",
@@ -16304,7 +17643,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311654-rebecca-azersky",
@@ -16352,7 +17692,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5072675721-reclamare-tattoo",
@@ -16399,7 +17740,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310771-red-demon-tattoos",
@@ -16442,7 +17784,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3166823781-red-kestrel-tattoo",
@@ -16484,7 +17827,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-1737926120-redwood-tatoo-co",
@@ -16532,7 +17876,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310323-renee-paulette-batres",
@@ -16580,7 +17925,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-2219006990-revolution-ink",
@@ -16627,7 +17973,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0266239-ricardo-rivera",
@@ -16670,7 +18017,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12321564794-ricky-tattoo",
@@ -16717,7 +18065,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-343610950-ritual-tattoo",
@@ -16765,7 +18114,112 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "8cf729c4259390f8",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/reel/DYi9SDBp2_M/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Ritual Tattoo Instagram portfolio post",
+        "alt": "Ritual Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "6951f59098bc47b4",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/DXVKcrGAhoJ/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Ritual Tattoo Instagram portfolio post",
+        "alt": "Ritual Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "1c43fa34bca86b14",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/reel/DW4QoLQktHb/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Ritual Tattoo Instagram portfolio post",
+        "alt": "Ritual Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "2443b1524c55dd22",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/DWtaJJBjeQ4/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Ritual Tattoo Instagram portfolio post",
+        "alt": "Ritual Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "9e07d33b7b1e31f0",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/p/DWnjmJiDXt_/",
+        "mediaType": "instagramPost",
+        "displayMode": "officialEmbed",
+        "title": "Ritual Tattoo Instagram portfolio post",
+        "alt": "Ritual Tattoo tattoo work on Instagram",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_embed_link_only",
+        "confidence": 0.78
+      },
+      {
+        "id": "11fa24dc28f06349",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/ritualtattooberkeley/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Ritual Tattoo Instagram portfolio",
+        "alt": "Ritual Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ],
+    "instagram": "https://www.instagram.com/ritualtattooberkeley/"
   },
   {
     "id": "scc-fa0308219-rodney-villanueva",
@@ -16808,7 +18262,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-9379542303-roseville-tattoo-co",
@@ -16856,7 +18311,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8922987573-royal-peacock-tattoo-parlor",
@@ -16904,7 +18360,79 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "6fe6b6711d40831b",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.royalpeacocktattooparlor.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "tattoo",
+        "alt": "tattoo",
+        "styleTags": [
+          "Geometric",
+          "Lettering"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.68,
+        "mediaUrl": "https://le-cdn.hibuwebsites.com/ee67e1a90ad449e780e75fa7d46605b7/dms3rep/multi/opt/home-2-548w.jpg",
+        "thumbnailUrl": "https://le-cdn.hibuwebsites.com/ee67e1a90ad449e780e75fa7d46605b7/dms3rep/multi/opt/home-2-548w.jpg"
+      },
+      {
+        "id": "52aad1d8b0dff059",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/jimhoward_tattoo/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Royal Peacock Tattoo Parlor Instagram portfolio",
+        "alt": "Royal Peacock Tattoo Parlor official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Geometric",
+          "Lettering"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "bd24553fb09fdbf2",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/wangdang69/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Royal Peacock Tattoo Parlor Instagram portfolio",
+        "alt": "Royal Peacock Tattoo Parlor official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Geometric",
+          "Lettering"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "4548fd25cb25d500",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/brandenmcafee/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Royal Peacock Tattoo Parlor Instagram portfolio",
+        "alt": "Royal Peacock Tattoo Parlor official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Geometric",
+          "Lettering"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ],
+    "instagram": "https://www.instagram.com/jimhoward_tattoo/"
   },
   {
     "id": "scc-fa0309851-ryan-nicole-harwell",
@@ -16946,7 +18474,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303192-ryang-kim",
@@ -16994,7 +18523,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0284590-sacred-oath-tattoos",
@@ -17041,7 +18571,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-368167439-sacred-rose-tattoo",
@@ -17084,7 +18615,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13246743501-sacred-soul-tattoo-and-piercing",
@@ -17127,7 +18659,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13480936245-sacred-tattoo",
@@ -17175,7 +18708,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306203-sage-noel-kurnie",
@@ -17223,7 +18757,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13307488281-sailors-ink",
@@ -17276,7 +18811,45 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "bd9040eb551fa50d",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/sailors_ink/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Sailors Ink Instagram portfolio",
+        "alt": "Sailors Ink official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Fine Line",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "3613d97b3b3eb278",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.sailorsink.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Sailors Ink portfolio work",
+        "alt": "Sailors Ink portfolio work",
+        "styleTags": [
+          "Fine line",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://format.creatorcdn.com/82853bb1-b044-44e1-b48b-028e8d4b6c71/0/0/0/0,0,3285,2529,900,2529/0-0-0/7f0561f2-4c4c-4f9a-9ac9-3660dbd39297/1/1/8F26E34D-9CBC-450D-AE08-E123C0F56445.jpg?fjkss=exp=2097421955~hmac=dd5d744b6ffd613091068d764b75728789b77a57edc6ffa341aeb4cf765279f7",
+        "thumbnailUrl": "https://format.creatorcdn.com/82853bb1-b044-44e1-b48b-028e8d4b6c71/0/0/0/0,0,3285,2529,900,2529/0-0-0/7f0561f2-4c4c-4f9a-9ac9-3660dbd39297/1/1/8F26E34D-9CBC-450D-AE08-E123C0F56445.jpg?fjkss=exp=2097421955~hmac=dd5d744b6ffd613091068d764b75728789b77a57edc6ffa341aeb4cf765279f7"
+      }
+    ],
+    "instagram": "https://www.instagram.com/sailors_ink/"
   },
   {
     "id": "osm-node-416575638-salty-dog-tattoos",
@@ -17322,7 +18895,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0268923-samantha-rusk",
@@ -17370,7 +18944,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-2598866166-sammy-rain-s-custom-tattooz",
@@ -17417,7 +18992,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0259657-san-jose-tattoo",
@@ -17465,7 +19041,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303900-sarah-nhien-pham",
@@ -17513,7 +19090,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311995-say-muoi-cun",
@@ -17556,7 +19134,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13141558880-secret-sidewalk-tattoo",
@@ -17603,7 +19182,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0291287-sergio-francisco-alvarez",
@@ -17645,7 +19225,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0277898-sergio-montes",
@@ -17693,7 +19274,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-4406213991-seventh-son",
@@ -17741,7 +19323,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303569-shanette-sugayan-gapol",
@@ -17784,7 +19367,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311492-sharon-my-le",
@@ -17831,7 +19415,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0289398-shelby-chin",
@@ -17879,7 +19464,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5474741636-shipyard-tattoo",
@@ -17926,7 +19512,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311457-shu-tong-gao",
@@ -17974,7 +19561,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311282-skyla-gao-li-ith",
@@ -18021,7 +19609,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0286513-soon-yun-lemaster",
@@ -18064,7 +19653,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302767-soul-imagez-tattoo",
@@ -18111,7 +19701,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3648457228-state-of-grace",
@@ -18158,7 +19749,26 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "a10e9fedda39cbab",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/stateofgracetattoo/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "State Of Grace Instagram portfolio",
+        "alt": "State Of Grace official Instagram portfolio profile",
+        "styleTags": [
+          "Custom",
+          "Flash"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ],
+    "instagram": "https://www.instagram.com/stateofgracetattoo/"
   },
   {
     "id": "scc-fa0304498-stella-lee",
@@ -18200,7 +19810,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0285703-stephen-thomas-sherick-ii",
@@ -18242,7 +19853,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0305533-steve-sherick-tattoo",
@@ -18289,7 +19901,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310334-steven-a-nava",
@@ -18337,7 +19950,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-521379110-strong-tattoo",
@@ -18380,7 +19994,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3801415661-studio-kazoku",
@@ -18427,7 +20042,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12331993633-studio-noir",
@@ -18470,7 +20086,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13955997337-swan-sword-tattoo",
@@ -18517,7 +20134,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0291529-sylvia-duenas",
@@ -18565,7 +20183,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303156-tai-n-to",
@@ -18608,7 +20227,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265141-takahiro-kitamura",
@@ -18655,7 +20275,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0281846-takashi-noguchi",
@@ -18698,7 +20319,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0272145-tamiko-e-rast",
@@ -18741,7 +20363,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302722-tattoo-nerds",
@@ -18783,7 +20406,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-3678527456-taylor-ink",
@@ -18830,7 +20454,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13480944124-temple-tattoo-13",
@@ -18878,7 +20503,99 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "7591db2428872309",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/templetattoo13/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "Temple Tattoo 13 Instagram portfolio",
+        "alt": "Temple Tattoo 13 official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "c6bc53efdc4e7ae9",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.templetattoo13.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Temple Tattoo 13 portfolio work",
+        "alt": "Temple Tattoo 13 portfolio work",
+        "styleTags": [
+          "Geometric",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_3853-1920w.JPG",
+        "thumbnailUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_3853-1920w.JPG"
+      },
+      {
+        "id": "c82d1f02da266173",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.templetattoo13.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Temple Tattoo 13 portfolio work",
+        "alt": "Temple Tattoo 13 portfolio work",
+        "styleTags": [
+          "Geometric",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_5469-1920w.PNG",
+        "thumbnailUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_5469-1920w.PNG"
+      },
+      {
+        "id": "e53d3208cc2f5f82",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.templetattoo13.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Temple Tattoo 13 portfolio work",
+        "alt": "Temple Tattoo 13 portfolio work",
+        "styleTags": [
+          "Geometric",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_1677-1920w.jpg",
+        "thumbnailUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_1677-1920w.jpg"
+      },
+      {
+        "id": "5df47d6beeb5e891",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://www.templetattoo13.com/",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Temple Tattoo 13 portfolio work",
+        "alt": "Temple Tattoo 13 portfolio work",
+        "styleTags": [
+          "Geometric",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.76,
+        "mediaUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_5092-5b54e3ab-1920w.JPEG",
+        "thumbnailUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/IMG_5092-5b54e3ab-1920w.JPEG"
+      }
+    ],
+    "instagram": "https://www.instagram.com/templetattoo13/"
   },
   {
     "id": "scc-fa0306207-teresa-yvette-rosales",
@@ -18925,7 +20642,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302721-tessia-spisak",
@@ -18968,7 +20686,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310498-the-artistry-tattoo-studio",
@@ -19011,7 +20730,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11048744223-the-dogfather-tattoo",
@@ -19059,7 +20779,113 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": [
+      {
+        "id": "b4532c3d1e23df47",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/dogfathertattooco/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "The Dogfather Tattoo Instagram portfolio",
+        "alt": "The Dogfather Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "e5a57683179fc05f",
+        "source": "officialWebsite",
+        "sourcePageUrl": "https://dogfathertattoo.com/booking",
+        "mediaType": "image",
+        "displayMode": "remoteImage",
+        "title": "Dogfather",
+        "alt": "Dogfather",
+        "styleTags": [
+          "Geometric",
+          "Blackwork"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "first_party_remote_reference",
+        "confidence": 0.73,
+        "mediaUrl": "https://img1.wsimg.com/isteam/ip/2f771a73-b34d-433c-a3a9-246fe726dc11/blob-9451711.png/:/rs=h:105,cg:true,m/qt=q:100/ll",
+        "thumbnailUrl": "https://img1.wsimg.com/isteam/ip/2f771a73-b34d-433c-a3a9-246fe726dc11/blob-9451711.png/:/rs=h:105,cg:true,m/qt=q:100/ll"
+      },
+      {
+        "id": "ec6f41843f8442fd",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/marcelotat2/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "The Dogfather Tattoo Instagram portfolio",
+        "alt": "The Dogfather Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "1bdec0fcb46d3e6d",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/angeltiburona/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "The Dogfather Tattoo Instagram portfolio",
+        "alt": "The Dogfather Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "956d8e4667baf0c3",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/jenns_tattoos/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "The Dogfather Tattoo Instagram portfolio",
+        "alt": "The Dogfather Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      },
+      {
+        "id": "cb392437664df5f1",
+        "source": "instagram",
+        "sourcePageUrl": "https://www.instagram.com/Emma.tat2/",
+        "mediaType": "instagramProfile",
+        "displayMode": "externalLink",
+        "title": "The Dogfather Tattoo Instagram portfolio",
+        "alt": "The Dogfather Tattoo official Instagram portfolio profile",
+        "styleTags": [
+          "Blackwork",
+          "Custom",
+          "Geometric"
+        ],
+        "collectedAt": "2026-06-25",
+        "rightsStatus": "official_profile_link_only",
+        "confidence": 0.58
+      }
+    ],
+    "instagram": "https://www.instagram.com/dogfathertattooco/"
   },
   {
     "id": "osm-node-8481756555-the-forge",
@@ -19107,7 +20933,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.78
+    "confidence": 0.78,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304726-the-golden-oak-tattoo-studio",
@@ -19155,7 +20982,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-7215727819-the-heart-the-anvil-tattoo",
@@ -19202,7 +21030,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290408-the-holy-scythe-tattoo",
@@ -19244,7 +21073,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11105808323-the-klubhouse-tattoo-and-piercing",
@@ -19287,7 +21117,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0260727-the-marks-of-art-tattoo-parlor",
@@ -19335,7 +21166,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0300736-thi-viet-my-van",
@@ -19378,7 +21210,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0306824-thien-khanh-tran",
@@ -19426,7 +21259,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0257785-tho-doan",
@@ -19469,7 +21303,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301646-thomas-thuan-tran",
@@ -19511,7 +21346,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310043-thousand-cranes-tattoo",
@@ -19558,7 +21394,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0287887-thu-thuy-hau",
@@ -19601,7 +21438,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0290874-thuan-minh-tran",
@@ -19644,7 +21482,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311355-tiffany-phuong-hoang",
@@ -19686,7 +21525,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0303615-tin-le",
@@ -19734,7 +21574,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304730-toan-huu-pham",
@@ -19777,7 +21618,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265113-toby-torres",
@@ -19820,7 +21662,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0274663-tony-minh-hoang",
@@ -19862,7 +21705,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302595-tracy-le-cao",
@@ -19905,7 +21749,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0305493-travis-leahy",
@@ -19952,7 +21797,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0289378-travis-naset",
@@ -19995,7 +21841,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11884695661-trilllogy-tattoo",
@@ -20042,7 +21889,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6763077125-triple-r-tattoo-art-studio",
@@ -20085,7 +21933,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309852-trixie-nicole-lopez-micarsos",
@@ -20128,7 +21977,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8105092066-true-love-tattoo",
@@ -20176,7 +22026,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-5876905611-tuesday-tattoo",
@@ -20218,7 +22069,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-6960980690-two-cranes-tattoo",
@@ -20265,7 +22117,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0308104-tyler-davis",
@@ -20308,7 +22161,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0286966-tyler-stratton-harrington",
@@ -20355,7 +22209,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-13715184384-undrgrnd",
@@ -20398,7 +22253,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309912-upscale-ink-art-llc",
@@ -20440,7 +22296,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-way-698165660-vacaville-tattoo-co",
@@ -20483,7 +22340,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-11164513267-vampire-battle-mansion",
@@ -20531,7 +22389,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302896-van-nguyen",
@@ -20573,7 +22432,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0311715-vanessa-castillo-lozano",
@@ -20620,7 +22480,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0278166-vanessa-m-velasquez",
@@ -20668,7 +22529,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0265772-venjamin-jimenez",
@@ -20710,7 +22572,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0269965-viet-hoai-nguyen",
@@ -20758,7 +22621,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309369-viktoria-raquel-gonzales",
@@ -20805,7 +22669,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309328-vincent-hoang",
@@ -20848,7 +22713,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310778-vu-nguyen",
@@ -20891,7 +22757,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0286110-vu-tuan-phan",
@@ -20939,7 +22806,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310847-vy-thuy-le",
@@ -20982,7 +22850,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-12824398150-war-horse-tattoo",
@@ -21025,7 +22894,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302596-weiqi-shi",
@@ -21072,7 +22942,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304887-william-michael-ramirez",
@@ -21119,7 +22990,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310849-yen-nhi-pham",
@@ -21166,7 +23038,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301630-yonko-tattoo-studio",
@@ -21213,7 +23086,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0301872-youngha-claire-baek",
@@ -21261,7 +23135,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310210-yunting-lin",
@@ -21308,7 +23183,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "osm-node-8072278150-zebra",
@@ -21351,7 +23227,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.66
+    "confidence": 0.66,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0309363-zelines-doan-flores",
@@ -21394,7 +23271,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0310399-zenith-ink-tattoo",
@@ -21442,7 +23320,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.76
+    "confidence": 0.76,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0302598-zhijian-yang",
@@ -21485,7 +23364,8 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   },
   {
     "id": "scc-fa0304871-zoe-louise-wilder",
@@ -21528,6 +23408,7 @@ export const tattooRecords = [
       }
     ],
     "verifiedAt": "2026-06-25",
-    "confidence": 0.72
+    "confidence": 0.72,
+    "portfolioItems": []
   }
-] satisfies TattooRecord[];
+]

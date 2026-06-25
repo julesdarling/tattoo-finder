@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-06-25",
+  "count": 46,
+  "rejections": [
+    {
+      "recordId": "osm-node-6435975113-9-dragons-ink",
+      "name": "9 Dragons Ink",
+      "url": "https://www.9dragonsink.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-6435975113-9-dragons-ink",
+      "name": "9 Dragons Ink",
+      "url": "https://www.9dragonsink.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-4077146724-art-of-the-heart-tattoo",
+      "name": "Art Of The Heart Tattoo",
+      "url": "https://www.instagram.com/explore/locations/1027668459/art-of-the-heart-tattoo-piercings/",
+      "reason": "invalid-instagram-url",
+      "details": "Instagram URL was neither a profile nor public post/reel/tv URL."
+    },
+    {
+      "recordId": "osm-node-8105025455-berkeley-tattoo",
+      "name": "Berkeley Tattoo",
+      "url": "https://www.berkeleytattoo.org/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-node-13768629905-black-blue-tattoo",
+      "name": "Black & Blue Tattoo",
+      "url": "https://www.blackandbluetattoo.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-way-112757636-black-heart-tattoo",
+      "name": "Black Heart Tattoo",
+      "url": "https://www.blackhearttattoosf.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-way-206844156-black-rose-tattoo-parlor",
+      "name": "Black Rose Tattoo Parlor",
+      "url": "https://www.facebook.com/theblackrosetattooparlor",
+      "reason": "social-crawl-skipped",
+      "details": "Social pages are not fetched by the portfolio enrichment crawler."
+    },
+    {
+      "recordId": "osm-node-4908438069-blacksuit-tattoo",
+      "name": "Blacksuit Tattoo",
+      "url": "https://www.blacksuittattoo.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-4908438069-blacksuit-tattoo",
+      "name": "Blacksuit Tattoo",
+      "url": "https://www.blacksuittattoo.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-12816638430-body-manipulations",
+      "name": "Body Manipulations",
+      "url": "https://bodym.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*/collections/*filter*&*filter*"
+    },
+    {
+      "recordId": "osm-node-3382505777-capital-ink-tattoo",
+      "name": "Capital Ink Tattoo",
+      "url": "https://www.capitalinktattoo.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-3382505777-capital-ink-tattoo",
+      "name": "Capital Ink Tattoo",
+      "url": "https://www.capitalinktattoo.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-6780093114-cold-steel",
+      "name": "Cold Steel",
+      "url": "https://www.coldsteelpiercing.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-node-4583405663-dark-water",
+      "name": "Dark Water",
+      "url": "https://www.darkwater.ink/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-node-9948792858-frisco-tattoo",
+      "name": "Frisco Tattoo",
+      "url": "https://www.friscotattoosf.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-9948792858-frisco-tattoo",
+      "name": "Frisco Tattoo",
+      "url": "https://www.friscotattoosf.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-5732669136-hot-ink-tattoos",
+      "name": "Hot Ink Tattoos",
+      "url": "https://www.hotinktattoos.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-node-4022689969-let-it-bleed",
+      "name": "Let It Bleed",
+      "url": "https://www.letitbleedtattoo.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-way-699008374-mission-street-tattoo-piercing",
+      "name": "Mission Street Tattoo & Piercing",
+      "url": "https://www.mission-street-tattoo.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: /*?format=page-context"
+    },
+    {
+      "recordId": "osm-node-4359127591-mom-s-body-shop",
+      "name": "Mom's Body Shop",
+      "url": "https://www.facebook.com/momsbodyshop",
+      "reason": "social-crawl-skipped",
+      "details": "Social pages are not fetched by the portfolio enrichment crawler."
+    },
+    {
+      "recordId": "osm-node-4486115704-monsters-ink",
+      "name": "Monsters Ink",
+      "url": "https://www.monstersinktattooca.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-4486115704-monsters-ink",
+      "name": "Monsters Ink",
+      "url": "https://www.monstersinktattooca.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-3393384948-moth-dagger-tattoo",
+      "name": "Moth & Dagger Tattoo",
+      "url": "https://www.mothanddaggertattoo.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: *?lightbox="
+    },
+    {
+      "recordId": "osm-node-4030526509-nightshade-studios",
+      "name": "Nightshade Studios",
+      "url": "https://www.nightshadesf.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-4030526509-nightshade-studios",
+      "name": "Nightshade Studios",
+      "url": "https://www.nightshadesf.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-13097404823-old-crow-tattoo",
+      "name": "Old Crow Tattoo",
+      "url": "https://www.oldcrowtattoo.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: *?lightbox="
+    },
+    {
+      "recordId": "osm-node-12750336884-philthy-clean-tattoo",
+      "name": "Philthy Clean Tattoo",
+      "url": "https://www.facebook.com/mrphilthycleantattoo/",
+      "reason": "social-crawl-skipped",
+      "details": "Social pages are not fetched by the portfolio enrichment crawler."
+    },
+    {
+      "recordId": "osm-way-286270200-picture-machine",
+      "name": "Picture Machine",
+      "url": "https://sanfranciscotattoo.com/robots.txt",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-way-286270200-picture-machine",
+      "name": "Picture Machine",
+      "url": "https://sanfranciscotattoo.com/",
+      "reason": "fetch-error",
+      "details": "fetch failed"
+    },
+    {
+      "recordId": "osm-node-9379542303-roseville-tattoo-co",
+      "name": "Roseville Tattoo Co.",
+      "url": "https://www.rosevillesc.com/",
+      "reason": "robots-disallowed",
+      "details": "disallow: *?lightbox="
+    },
+    {
+      "recordId": "osm-node-8922987573-royal-peacock-tattoo-parlor",
+      "name": "Royal Peacock Tattoo Parlor",
+      "url": "https://bat.bing.com/action/0?ti=97126831&Ver=2",
+      "reason": "invalid-website-image",
+      "details": "Image candidate failed first-party media URL checks."
+    },
+    {
+      "recordId": "osm-node-4077146724-art-of-the-heart-tattoo",
+      "name": "Art Of The Heart Tattoo",
+      "url": "https://www.artofthehearttattoo.com/",
+      "itemId": "480efae4936ac766",
+      "mediaUrl": "https://static.mywebsites360.com/a88080ea2c894d7394a3c9aba2d6ae7c/i/bcec7391d6ef45c6b4f0a9babd9baf1b/1/4SoifmQpDrHbZJ6VybMjS/piercing%203.png",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-393124821-masterpiece-tattoo",
+      "name": "Masterpiece Tattoo",
+      "url": "https://masterpiecetattoosf.com/dark-tattoos-dark-art-tattoos-bio-organic-tattoos-dart-tattoo-artist/",
+      "itemId": "82aa908391aa3ee6",
+      "mediaUrl": "https://masterpiecetattoosf.com/banner/7.png",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-13801108788-memento-mori-tattoo",
+      "name": "Memento Mori Tattoo",
+      "url": "https://mementomoritattoos.com/",
+      "itemId": "3cc7f55105e12b4f",
+      "mediaUrl": "https://img1.wsimg.com/isteam/ip/484af3c0-c9c0-4f5b-acc5-afbfb1beed62/Mem_Mori_Logo_For_Decal_Copper.png/:/cr=t:14.19%25,l:0%25,w:100%25,h:70.27%25/rs=w:515,h:234,cg:true",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-8922987573-royal-peacock-tattoo-parlor",
+      "name": "Royal Peacock Tattoo Parlor",
+      "url": "https://www.royalpeacocktattooparlor.com/",
+      "itemId": "624f86d69caa56a9",
+      "mediaUrl": "https://le-cdn.hibuwebsites.com/ee67e1a90ad449e780e75fa7d46605b7/dms3rep/multi/opt/2-d240f854-548w.jpg",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-8922987573-royal-peacock-tattoo-parlor",
+      "name": "Royal Peacock Tattoo Parlor",
+      "url": "https://www.royalpeacocktattooparlor.com/",
+      "itemId": "7516523f403e2bb2",
+      "mediaUrl": "https://le-cdn.hibuwebsites.com/ee67e1a90ad449e780e75fa7d46605b7/dms3rep/multi/opt/home-3-934bda5c-547w.jpg",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-13307488281-sailors-ink",
+      "name": "Sailors Ink",
+      "url": "https://www.sailorsink.com/gallery",
+      "itemId": "73d6f8d49ba49345",
+      "mediaUrl": "https://format.creatorcdn.com/82853bb1-b044-44e1-b48b-028e8d4b6c71/0/0/0/0,0,931,1159,900,1159/0-0-0/fa06259d-a36a-4472-9755-709a1e6658c2/1/1/Screenshot+2024-08-15+at+1.04.27+PM.png?fjkss=exp=2097726319~hmac=6560752e4a8cf3e2b8625b96479e2033ff5198a19ce83d5a114d8206cf9b40de",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-13307488281-sailors-ink",
+      "name": "Sailors Ink",
+      "url": "https://www.sailorsink.com/gallery",
+      "itemId": "f293540f1dbcf2bf",
+      "mediaUrl": "https://format.creatorcdn.com/82853bb1-b044-44e1-b48b-028e8d4b6c71/0/0/0/0,0,947,1163,900,1163/0-0-0/098abd5a-098e-435f-b4be-59c04e0f0fa8/1/1/Screenshot+2024-08-15+at+1.04.06+PM.png?fjkss=exp=2097726319~hmac=18b73187f35e8fc9ad77c9c241b1a1bbee61f6e756efd7b935568d1eb8bf90cf",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-13307488281-sailors-ink",
+      "name": "Sailors Ink",
+      "url": "https://www.sailorsink.com/gallery",
+      "itemId": "901639e371ef220f",
+      "mediaUrl": "https://format.creatorcdn.com/82853bb1-b044-44e1-b48b-028e8d4b6c71/0/0/0/0,0,936,1148,900,1148/0-0-0/777809b6-9a77-463e-8549-f4e446b8082e/1/1/Screenshot+2024-08-15+at+1.03.24+PM.png?fjkss=exp=2097726319~hmac=9b1c12b1eeb4d94065c58e1acf652798dae586eed062f631ba5d98295769636b",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-13307488281-sailors-ink",
+      "name": "Sailors Ink",
+      "url": "https://www.sailorsink.com/gallery",
+      "itemId": "d238e7d2c52a971c",
+      "mediaUrl": "https://format.creatorcdn.com/82853bb1-b044-44e1-b48b-028e8d4b6c71/0/0/0/0,0,848,1099,900,1099/0-0-0/8a5726a5-26a0-4b3d-8bae-f3f3d280c56a/1/1/Screenshot+2024-08-09+at+4.18.22+PM.png?fjkss=exp=2097726319~hmac=1a6f2b2294e6f3f32d026c39f698bec7c3ac6136c4be0d0ba80c3d5df4b5de2f",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-3648457228-state-of-grace",
+      "name": "State Of Grace",
+      "url": "https://www.stateofgracetattoo.com/",
+      "itemId": "b8cf81f36e920f36",
+      "mediaUrl": "https://www.stateofgracetattoo.com/_next/image?url=%2Fimages%2Fartists%2Fmolly%2Fheadshot.jpg&w=3840&q=75&dpl=dpl_HMY7kLueaewhi7fFtHSdoNSJaKQi",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-3648457228-state-of-grace",
+      "name": "State Of Grace",
+      "url": "https://www.stateofgracetattoo.com/",
+      "itemId": "26efd5945c6a36d3",
+      "mediaUrl": "https://www.stateofgracetattoo.com/_next/image?url=%2Fimages%2Fartists%2Fsef%2Fheadshot.jpg&w=3840&q=75&dpl=dpl_HMY7kLueaewhi7fFtHSdoNSJaKQi",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-3648457228-state-of-grace",
+      "name": "State Of Grace",
+      "url": "https://www.stateofgracetattoo.com/",
+      "itemId": "786a7a9948d8979f",
+      "mediaUrl": "https://www.stateofgracetattoo.com/_next/image?url=%2Fimages%2Fartists%2Ftyler-harrington%2Fheadshot.jpg&w=3840&q=75&dpl=dpl_HMY7kLueaewhi7fFtHSdoNSJaKQi",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-3648457228-state-of-grace",
+      "name": "State Of Grace",
+      "url": "https://www.stateofgracetattoo.com/",
+      "itemId": "d7b61f609fab96f9",
+      "mediaUrl": "https://www.stateofgracetattoo.com/_next/image?url=%2Fimages%2Fartists%2Fcolin-kenji-baker%2Fheadshot.jpg&w=3840&q=75&dpl=dpl_HMY7kLueaewhi7fFtHSdoNSJaKQi",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-3648457228-state-of-grace",
+      "name": "State Of Grace",
+      "url": "https://www.stateofgracetattoo.com/",
+      "itemId": "748ef916a0377fcb",
+      "mediaUrl": "https://www.stateofgracetattoo.com/_next/image?url=%2Fimages%2Fartists%2Fhorifuji%2Fheadshot.jpeg&w=3840&q=75&dpl=dpl_HMY7kLueaewhi7fFtHSdoNSJaKQi",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    },
+    {
+      "recordId": "osm-node-13480944124-temple-tattoo-13",
+      "name": "Temple Tattoo 13",
+      "url": "https://www.templetattoo13.com/",
+      "itemId": "03ded2f19d8e147e",
+      "mediaUrl": "https://lirp.cdn-website.com/c9d98aa8/dms3rep/multi/opt/Screenshot+2025-05-06+at+11.44.17-AM-1920w.JPEG",
+      "reason": "manual-review-quarantine",
+      "details": "Removed from portfolioItems before app deploy because title, alt text, or media URL suggested non-tattoo portfolio content."
+    }
+  ]
+}

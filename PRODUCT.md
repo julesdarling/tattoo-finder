@@ -1,31 +1,28 @@
 # Tattoo Finder Product Context
 
-## Register
+register: product
 
-Product.
+## Purpose
+
+Tattoo Finder is a static marketplace-style discovery app for people looking for tattoo artists and studios around the San Francisco Bay Area. It replaces the messy workflow of searching Instagram, Google, and map apps with one fast, visual way to compare work, location, styles, confidence, and contact options.
 
 ## Users
 
-People in the San Francisco Bay Area who are deciding where to get tattooed and want to compare artists by style, location, booking path, and source confidence without manually juggling Instagram, Google, and maps.
+- People planning a tattoo who want to browse visually before contacting an artist.
+- Locals and visitors comparing studios by neighborhood, style, and portfolio evidence.
+- Future artists/studios who may want an opt-in profile once the product graduates beyond static data.
 
-## Product Purpose
+## Product Principles
 
-Tattoo Finder is a public static discovery tool for browsing Bay Area tattoo artists and studios. It prioritizes fast mobile scanning, trustworthy provenance, portfolio-oriented sorting, and direct outbound booking/contact paths.
-
-## Success Criteria
-
-- Users can find plausible artists or studios by style and area in under a minute on mobile.
-- The app contains at least 200 Bay Area records with valid coordinates and source references.
-- Every Instagram-related field is link/embed-only; no copied Instagram media is hosted.
-- The app deploys cleanly to GitHub Pages and needs no backend or private API key.
-
-## Tone
-
-Useful, direct, slightly gritty, local, and source-aware. Avoid startup fluff, tattoo stereotypes, and hollow marketplace language.
+- Portfolio first: visual evidence beats directory text.
+- Map aware: location is always close at hand, but browsing should still feel image-led.
+- Source honest: distinguish official portfolio media, Instagram links, permit records, and fallback previews.
+- Fast broad v1: maximize useful coverage while clearly labeling uncertainty.
+- Static and safe: no private APIs, no copied Instagram media, no fake booking claims.
 
 ## Anti-References
 
-- Marketing-first landing pages that hide the app behind a hero section.
-- Generic directory card grids with no map or portfolio hierarchy.
-- Scraped social-media clones that copy images without rights.
-- Dark neon cyberpunk dashboards.
+- Do not become a generic directory table.
+- Do not become a fake booking marketplace with invented availability or prices.
+- Do not feel like a marketing landing page before the user can search.
+- Do not mimic Airbnb branding or copy; borrow only the proven marketplace interaction flow.

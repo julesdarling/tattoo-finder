@@ -1,39 +1,35 @@
-# Tattoo Finder Design Context
+# Tattoo Finder Design System
 
 ## Brand
 
-Use the supplied yellow-and-charcoal distressed mark as the identity seed. The production UI should feel like a clean working tool with a tactile tattoo-flash archive layer.
-
-## Color
-
-- Ink: charcoal rather than pure black.
-- Paper: warm off-white rather than pure white.
-- Accent: tattoo-flash yellow for primary actions, active controls, selected pins, and the logo field.
-- Semantic green is allowed only for verified/open-book states.
+- Tone: useful, sharp, trustworthy, slightly gritty.
+- Palette: off-black, warm off-white, yellow accent.
+- Color strategy: restrained product UI with yellow reserved for active/search/save emphasis.
+- Avoid pure `#000` and `#fff`; use tinted OKLCH neutrals.
 
 ## Typography
 
-- Display/headlines: Zalando Sans, uppercase, bold or black, controlled tracking.
-- Body/UI: Space Grotesk, readable at small sizes.
-- Display type belongs in headings, masthead, section labels, and record names, not dense labels or long body copy.
+- Headlines: Zalando Sans, bold, uppercase, compact line height.
+- Body and UI: Space Grotesk.
+- No display fonts inside labels, form controls, or dense metadata.
 
 ## Layout
 
-- Mobile first: search, filters, list, map/list toggle, detail sheet.
-- Desktop enhancement: split gallery/list and sticky map.
-- Avoid nested cards. Use borders, dividers, bands, and measured spacing for structure.
-- Portfolio thumbnails should feel varied and visual, but must not depend on copied social-media assets.
+- Home: Airbnb-inspired top nav, segmented search pill, continue-search strip, and horizontal listing shelves.
+- Results: desktop split list/map; mobile fixed map/list toggle.
+- Cards: listing cards only, not page sections. Image area first, metadata below.
+- Details: sheet/drawer with gallery, source strip, map, styles, and contact actions.
 
 ## Components
 
-- Compact top search.
-- Filter drawer/sheet on mobile, filter rail on desktop.
-- Portfolio-oriented record rows/cards.
-- Detail sheet/drawer with official embed fallback.
-- Saved shortlist.
-- Source verification badges.
-- Map pins with clear active and saved states.
+- Search pill has three segments: Where, Style, Availability.
+- Mode tabs: Artists, Studios, Flash.
+- Listing cards use heart/save affordance, source badge, portfolio count, styles, and city/region.
+- Fallback media must be abstract and labeled.
+- Buttons must have hover, active, focus-visible, disabled, and loading states where applicable.
 
 ## Motion
 
-Use restrained 150-250ms transitions for state feedback, sheet opening, filter toggles, and selected record changes. Avoid decorative animation.
+- Motion is product-state motion only: hover, active, sheet open, map/list toggle, carousel scroll.
+- Prefer 150-250ms transitions using transform and opacity.
+- No decorative load choreography.

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { filterRecords, getAvailableStyles, sortRecords } from '../../src/lib/search';
+import { distanceMiles, filterRecords, getAvailableStyles, sortRecords } from '../../src/lib/search';
 import type { TattooRecord } from '../../src/lib/schema';
 
 const records: TattooRecord[] = [
@@ -14,14 +14,31 @@ const records: TattooRecord[] = [
     lat: 37.7687,
     lng: -122.4212,
     styles: ['Fine line', 'Blackwork'],
-    bookingStatus: 'open',
-    website: 'https://blackserum.com',
-    bookingUrl: 'https://blackserum.com',
-    contactUrl: 'https://blackserum.com',
-    instagram: 'https://www.instagram.com/blackserum',
+    bookingStatus: 'unknown',
+    website: 'https://blackserum.example',
+    bookingUrl: 'https://blackserum.example',
+    contactUrl: 'https://blackserum.example',
+    instagram: 'https://www.instagram.com/blackserum/',
     instagramPosts: [],
     portfolioImages: [],
-    sourceRefs: [{ label: 'Official website', url: 'https://blackserum.com', type: 'official' }],
+    portfolioItems: [
+      {
+        id: 'portfolio-1',
+        source: 'officialWebsite',
+        sourcePageUrl: 'https://blackserum.example/gallery',
+        mediaType: 'image',
+        displayMode: 'remoteImage',
+        title: 'Fine line tattoo',
+        alt: 'Fine line tattoo portfolio image',
+        styleTags: ['Fine line'],
+        collectedAt: '2026-06-25',
+        rightsStatus: 'first_party_remote_reference',
+        confidence: 0.8,
+        mediaUrl: 'https://blackserum.example/image.jpg',
+        thumbnailUrl: 'https://blackserum.example/image.jpg',
+      },
+    ],
+    sourceRefs: [{ label: 'Official website', url: 'https://blackserum.example', type: 'official' }],
     verifiedAt: '2026-06-25',
     confidence: 0.91,
   },
@@ -36,51 +53,30 @@ const records: TattooRecord[] = [
     lat: 37.8044,
     lng: -122.2712,
     styles: ['Traditional', 'Japanese'],
-    bookingStatus: 'waitlist',
-    website: 'https://templetattoo.com',
-    bookingUrl: 'https://templetattoo.com',
-    contactUrl: 'https://templetattoo.com',
-    instagram: 'https://www.instagram.com/templetattoo',
+    bookingStatus: 'unknown',
+    website: 'https://temple.example',
+    bookingUrl: 'https://temple.example',
+    contactUrl: 'https://temple.example',
     instagramPosts: [],
     portfolioImages: [],
-    sourceRefs: [{ label: 'Official website', url: 'https://templetattoo.com', type: 'official' }],
+    portfolioItems: [],
+    sourceRefs: [{ label: 'OpenStreetMap', url: 'https://www.openstreetmap.org/node/1', type: 'osm' }],
     verifiedAt: '2026-06-25',
-    confidence: 0.86,
-  },
-  {
-    id: 'santa-rosa-geometric',
-    kind: 'artist',
-    name: 'Iris Vale',
-    studioName: 'Glass Beetle Studio',
-    city: 'Santa Rosa',
-    region: 'North Bay',
-    address: 'Santa Rosa, CA',
-    lat: 38.4404,
-    lng: -122.7141,
-    styles: ['Geometric', 'Fine line'],
-    bookingStatus: 'closed',
-    website: 'https://example.com/glass-beetle',
-    bookingUrl: 'https://example.com/glass-beetle',
-    contactUrl: 'https://example.com/glass-beetle',
-    instagram: 'https://www.instagram.com/glassbeetle',
-    instagramPosts: [],
-    portfolioImages: [],
-    sourceRefs: [{ label: 'Studio website', url: 'https://example.com/glass-beetle', type: 'website' }],
-    verifiedAt: '2026-06-25',
-    confidence: 0.71,
+    confidence: 0.66,
   },
 ];
 
 describe('filterRecords', () => {
-  it('matches query, style, region, kind, and open booking filters together', () => {
+  it('matches query, style, region, kind, and media filters together', () => {
     const result = filterRecords(records, {
       q: 'mara',
-      region: 'SF',
+      where: 'SF',
       style: 'Fine line',
       radius: 50,
       origin: { lat: 37.7749, lng: -122.4194 },
       sort: 'distance',
-      openBooks: true,
+      openBooks: false,
+      mediaOnly: true,
       kind: 'artist',
       verifiedOnly: false,
       savedOnly: false,
@@ -92,21 +88,11 @@ describe('filterRecords', () => {
 
   it('sorts by distance from an origin when requested', () => {
     const result = sortRecords(records, 'distance', { lat: 37.7749, lng: -122.4194 });
-
-    expect(result.map((record) => record.id)).toEqual([
-      'sf-linework',
-      'oakland-traditional',
-      'santa-rosa-geometric',
-    ]);
+    expect(result.map((record) => record.id)).toEqual(['sf-linework', 'oakland-traditional']);
+    expect(distanceMiles({ lat: 37.7749, lng: -122.4194 }, { lat: 37.8044, lng: -122.2712 })).toBeGreaterThan(7);
   });
 
   it('builds a de-duplicated alphabetical style list', () => {
-    expect(getAvailableStyles(records)).toEqual([
-      'Blackwork',
-      'Fine line',
-      'Geometric',
-      'Japanese',
-      'Traditional',
-    ]);
+    expect(getAvailableStyles(records)).toEqual(['Blackwork', 'Fine line', 'Japanese', 'Traditional']);
   });
 });

@@ -1,33 +1,31 @@
 import { expect, test } from '@playwright/test';
 
-test('mobile browse, search, save, and detail flow works', async ({ page }) => {
-  await page.goto('/tattoo-finder/');
-  const results = page.getByRole('region', { name: /browse results/i });
-
-  await expect(page.getByRole('heading', { name: /tattoo finder/i })).toBeVisible();
-  await expect(results.getByRole('heading', { name: /showing 471/i })).toBeVisible();
-
-  await page.getByRole('searchbox', { name: /search artists, studios, cities, styles/i }).fill('Ritual Tattoo');
-  await page.getByRole('button', { name: /^save ritual tattoo/i }).click();
-  await expect(results.getByText(/1 saved/i)).toBeVisible();
-
-  await page.getByRole('button', { name: /open ritual tattoo details/i }).click();
-
-  const detail = page.getByRole('dialog', { name: /ritual tattoo/i });
-  await expect(detail).toBeVisible();
-  await expect(detail.getByRole('link', { name: /visit official site/i })).toBeVisible();
+test('mobile home search, save, and detail flow', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto('./');
+  await expect(page.getByRole('heading', { name: /find tattoo work nearby/i })).toBeVisible();
+  await page.getByPlaceholder('Fine line, Oakland, Ritual').fill('cyclops');
+  await page.locator('form[aria-label="Search tattoo artists"]').first().getByRole('button', { name: 'Search', exact: true }).click();
+  await expect(page).toHaveURL(/#\/search/);
+  await expect(page.getByText(/results/i).first()).toBeVisible();
+  await page.getByLabel(/save/i).first().click();
+  await page.locator('.listing-copy').first().click();
+  await expect(page.getByText(/verify before booking/i)).toBeVisible();
 });
 
-test('map surface is reachable and keeps OSM attribution visible', async ({ page }) => {
-  await page.goto('/tattoo-finder/');
+test('desktop results show split map and filters', async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 950 });
+  await page.goto('./#/search?where=SF');
+  await expect(page.getByLabel('Filters')).toBeVisible();
+  await expect(page.getByTestId('map-panel')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'OpenStreetMap' }).first()).toBeVisible();
+  await expect(page.locator('.listing-card').first()).toBeVisible();
+});
 
-  const showMap = page.getByRole('button', { name: /show map/i });
-  if (await showMap.isVisible()) {
-    await showMap.click();
-  }
-
-  await expect(page.getByRole('region', { name: /bay area map/i })).toBeVisible();
-  await expect.poll(async () => page.locator('img.leaflet-tile').count()).toBeGreaterThan(3);
-  await expect.poll(async () => page.locator('.leaflet-marker-icon').count()).toBeGreaterThan(200);
-  await expect(page.getByText(/openstreetmap/i).first()).toBeVisible();
+test('mobile map toggle reveals map', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto('./#/search?where=SF');
+  await page.locator('.mobile-actions').getByRole('button', { name: 'Map', exact: true }).click();
+  await expect(page.getByTestId('map-panel')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'OpenStreetMap' }).first()).toBeVisible();
 });
