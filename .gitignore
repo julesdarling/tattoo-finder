@@ -4,5 +4,6 @@ test-results
 playwright-report
 artifacts
 *.tsbuildinfo
+public/prototype-artwork.json
 .DS_Store
 .worktrees

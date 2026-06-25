@@ -1,11 +1,11 @@
 import { ExternalLink, Heart, Instagram, MapPin, ShieldCheck, X } from 'lucide-react';
-import type { TattooRecord } from '../lib/schema';
+import type { TattooRecordWithPrototypeArt } from '../lib/prototypeArtwork';
 import { bookingLabel, confidenceLabel, primaryActionLabel, sourceLabel } from '../lib/recordMeta';
 import { MediaFrame } from './MediaFrame';
 import { cn } from '../lib/cn';
 
 type DetailSheetProps = {
-  record: TattooRecord;
+  record: TattooRecordWithPrototypeArt;
   saved: boolean;
   onClose: () => void;
   onSave: (id: string) => void;
@@ -13,7 +13,8 @@ type DetailSheetProps = {
 
 export function DetailSheet({ record, saved, onClose, onSave }: DetailSheetProps) {
   const instagramUrl = record.instagram || record.portfolioItems.find((item) => item.source === 'instagram')?.sourcePageUrl;
-  const galleryFrameCount = Math.max(6, Math.min(9, record.portfolioItems.length));
+  const prototypeArtworkCount = record.prototypeArtworkItems?.length || 0;
+  const galleryFrameCount = Math.max(6, Math.min(12, prototypeArtworkCount || record.portfolioItems.length));
 
   return (
     <aside className="detail-sheet" role="dialog" aria-modal="true" aria-label={`${record.name} details`}>
@@ -53,7 +54,7 @@ export function DetailSheet({ record, saved, onClose, onSave }: DetailSheetProps
       <dl className="fact-grid">
         <div>
           <dt>Portfolio</dt>
-          <dd>{record.portfolioItems.length ? `${record.portfolioItems.length} refs` : 'Fallback only'}</dd>
+          <dd>{prototypeArtworkCount ? `${prototypeArtworkCount} prototype images` : record.portfolioItems.length ? `${record.portfolioItems.length} refs` : 'Fallback only'}</dd>
         </div>
         <div>
           <dt>Source</dt>

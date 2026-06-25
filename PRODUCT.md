@@ -17,6 +17,7 @@ Tattoo Finder is a static marketplace-style discovery app for people looking for
 - Portfolio first: visual evidence beats directory text.
 - Map aware: location is always close at hand, but browsing should still feel image-led.
 - Source honest: distinguish official portfolio media, Instagram links, permit records, and fallback previews.
+- Prototype artwork mode may show remote first-party artwork before permission, but only from ignored local data and only with `needs_permission` status.
 - Fast broad v1: maximize useful coverage while clearly labeling uncertainty.
 - Static and safe: no private APIs, no copied Instagram media, no fake booking claims.
 

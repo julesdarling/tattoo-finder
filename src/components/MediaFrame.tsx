@@ -1,9 +1,9 @@
 import { ExternalLink, Instagram } from 'lucide-react';
 import { useState } from 'react';
-import type { TattooRecord } from '../lib/schema';
+import type { TattooRecordWithPrototypeArt } from '../lib/prototypeArtwork';
 
 type MediaFrameProps = {
-  record: TattooRecord;
+  record: TattooRecordWithPrototypeArt;
   index?: number;
   large?: boolean;
   interactive?: boolean;
@@ -12,6 +12,7 @@ type MediaFrameProps = {
 
 export function MediaFrame({ record, index = 0, large = false, interactive = true, eager = false }: MediaFrameProps) {
   const [imageFailed, setImageFailed] = useState(false);
+  const prototypeItem = record.prototypeArtworkItems?.[index];
   const item = record.portfolioItems[index];
   const fallbackIndex = Math.max(index - record.portfolioItems.length, 0);
   const fallback = record.portfolioImages[fallbackIndex % Math.max(record.portfolioImages.length, 1)];
@@ -25,6 +26,15 @@ export function MediaFrame({ record, index = 0, large = false, interactive = tru
   ]
     .filter(Boolean)
     .join(' ');
+
+  if (prototypeItem && !imageFailed) {
+    return (
+      <figure className={large ? 'media-frame large prototype-artwork' : 'media-frame prototype-artwork'}>
+        <img src={prototypeItem.imageUrl} alt={prototypeItem.alt} loading={eager ? 'eager' : 'lazy'} onError={() => setImageFailed(true)} />
+        <figcaption>Needs permission</figcaption>
+      </figure>
+    );
+  }
 
   if (item?.displayMode === 'remoteImage' && item.thumbnailUrl && !imageFailed) {
     return (

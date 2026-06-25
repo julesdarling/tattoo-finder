@@ -9,22 +9,24 @@ import { SearchPill } from '../components/SearchPill';
 import { tattooRecords } from '../data';
 import { bayOrigins, filterRecords, getAvailableStyles, type Filters } from '../lib/search';
 import { readSavedIds, toggleSavedId } from '../lib/saved';
-import type { TattooRecord } from '../lib/schema';
+import type { TattooRecordWithPrototypeArt } from '../lib/prototypeArtwork';
 import { filtersFromParams, paramsFromFilters, viewFromParams } from '../lib/urlState';
 import type { ViewMode } from '../lib/search';
 import { cn } from '../lib/cn';
+import { usePrototypeRecords } from '../lib/usePrototypeRecords';
 
 const MapPanel = lazy(() => import('../components/MapPanel').then((module) => ({ default: module.MapPanel })));
 
 export function SearchPage() {
   const [params, setParams] = useSearchParams();
   const [savedIds, setSavedIds] = useState<string[]>([]);
-  const [selected, setSelected] = useState<TattooRecord | null>(null);
+  const [selected, setSelected] = useState<TattooRecordWithPrototypeArt | null>(null);
   const [filtersOpen, setFiltersOpen] = useState(false);
-  const styles = useMemo(() => getAvailableStyles(tattooRecords), []);
+  const { records, prototypeLoaded } = usePrototypeRecords(tattooRecords);
+  const styles = useMemo(() => getAvailableStyles(records), [records]);
   const filters = useMemo(() => filtersFromParams(params, savedIds), [params, savedIds]);
   const view = viewFromParams(params);
-  const results = useMemo(() => filterRecords(tattooRecords, filters), [filters]);
+  const results = useMemo(() => filterRecords(records, filters), [records, filters]);
 
   useEffect(() => {
     setSavedIds(readSavedIds());
@@ -104,6 +106,7 @@ export function SearchPage() {
             <div>
               <p className="eyebrow">{results.length} results</p>
               <h1>{filters.q || filters.where !== 'All' || filters.style !== 'All' ? 'Matching artists and studios' : 'Bay Area tattoo artists'}</h1>
+              {prototypeLoaded ? <p className="prototype-note">Prototype artwork mode: showing image-backed listings only.</p> : null}
             </div>
             <button className="desktop-filter-button" type="button" onClick={() => setFiltersOpen(true)}>
               <SlidersHorizontal size={17} aria-hidden="true" />

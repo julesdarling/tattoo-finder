@@ -12,6 +12,7 @@
     "test:watch": "vitest",
     "test:e2e": "playwright test",
     "sync:data": "node scripts/sync-data.mjs",
+    "prototype:artwork": "node scraped-database/scripts/collect-prototype-artwork.mjs",
     "qa:data": "node scripts/validate-app-data.mjs && node scraped-database/scripts/validate-portfolios.mjs",
     "check": "npm run sync:data && npm run qa:data && npm test && npm run build"
   },

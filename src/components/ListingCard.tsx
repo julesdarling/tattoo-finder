@@ -1,21 +1,23 @@
 import { Bookmark, Heart, MapPin, ShieldCheck } from 'lucide-react';
 import type { CSSProperties } from 'react';
-import type { TattooRecord } from '../lib/schema';
+import type { TattooRecordWithPrototypeArt } from '../lib/prototypeArtwork';
 import { bookingLabel, portfolioLabel, sourceLabel } from '../lib/recordMeta';
 import { cn } from '../lib/cn';
 import { MediaFrame } from './MediaFrame';
 
 type ListingCardProps = {
-  record: TattooRecord;
+  record: TattooRecordWithPrototypeArt;
   saved: boolean;
   onSave: (id: string) => void;
-  onOpen: (record: TattooRecord) => void;
+  onOpen: (record: TattooRecordWithPrototypeArt) => void;
   index?: number;
   compact?: boolean;
 };
 
 export function ListingCard({ record, saved, onSave, onOpen, index = 0, compact = false }: ListingCardProps) {
-  const galleryCount = Math.max(6, Math.min(9, record.portfolioItems.length));
+  const prototypeArtworkCount = record.prototypeArtworkItems?.length || 0;
+  const galleryCount = Math.max(6, Math.min(12, prototypeArtworkCount || record.portfolioItems.length));
+  const mediaLabel = prototypeArtworkCount ? `${prototypeArtworkCount} prototype images` : portfolioLabel(record);
 
   return (
     <article className={cn('listing-card', compact && 'compact')} style={{ '--card-index': index } as CSSProperties}>
@@ -41,7 +43,7 @@ export function ListingCard({ record, saved, onSave, onOpen, index = 0, compact 
             <ShieldCheck size={14} aria-hidden="true" />
             {sourceLabel(record)}
           </span>
-          <span>{portfolioLabel(record)}</span>
+          <span>{mediaLabel}</span>
         </span>
         <strong>{record.name}</strong>
         <span className="listing-meta">

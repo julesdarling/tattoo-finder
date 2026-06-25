@@ -8,13 +8,15 @@ import { Shelf } from '../components/Shelf';
 import { tattooRecords, dataMetadata } from '../data';
 import { filterRecords, getAvailableStyles, type Filters } from '../lib/search';
 import { readSavedIds, toggleSavedId } from '../lib/saved';
-import type { TattooRecord } from '../lib/schema';
+import type { TattooRecordWithPrototypeArt } from '../lib/prototypeArtwork';
+import { usePrototypeRecords } from '../lib/usePrototypeRecords';
 
 export function HomePage() {
   const navigate = useNavigate();
-  const styles = useMemo(() => getAvailableStyles(tattooRecords), []);
+  const { records, prototypeLoaded } = usePrototypeRecords(tattooRecords);
+  const styles = useMemo(() => getAvailableStyles(records), [records]);
   const [savedIds, setSavedIds] = useState<string[]>([]);
-  const [selected, setSelected] = useState<TattooRecord | null>(null);
+  const [selected, setSelected] = useState<TattooRecordWithPrototypeArt | null>(null);
   const [lastSearch, setLastSearch] = useState<string | null>(null);
 
   useEffect(() => {
@@ -36,7 +38,7 @@ export function HomePage() {
   ];
 
   function recordsFor(params: Partial<Filters>) {
-    return filterRecords(tattooRecords, {
+    return filterRecords(records, {
       q: '',
       where: params.where || 'All',
       style: params.style || 'All',
@@ -89,7 +91,11 @@ export function HomePage() {
         <Clock size={20} aria-hidden="true" />
         <span>
           <strong>Continue searching Bay Area artists</strong>
-          <small>{dataMetadata.totalRecords} records · {dataMetadata.portfolioEnrichment?.totalPortfolioItems || 0} portfolio refs · verify before booking</small>
+          <small>
+            {prototypeLoaded
+              ? `${records.length} image-backed prototype listings · permission needed before publish`
+              : `${dataMetadata.totalRecords} records · ${dataMetadata.portfolioEnrichment?.totalPortfolioItems || 0} portfolio refs · verify before booking`}
+          </small>
         </span>
         <SlidersHorizontal size={18} aria-hidden="true" />
       </button>

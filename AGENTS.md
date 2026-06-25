@@ -17,6 +17,7 @@ Build and maintain a static Airbnb-style marketplace web app for finding Bay Are
 - Use rate-limited, cached enrichment scripts under `scraped-database/scripts`.
 - Store Instagram profile URLs and official public post/reel/tv URLs only.
 - Store first-party website image URLs only when the image is referenced from an audited source page.
+- For local prototype review only, run `npm run prototype:artwork` to create ignored `public/prototype-artwork.json` from first-party official websites. These images are `needs_permission` and must not be published as production media until artists/studios approve.
 - Use localStorage only for client preferences such as saved records and last search.
 - Use subagents for data, UI, and QA loops when broadening the app.
 
@@ -28,6 +29,7 @@ Build and maintain a static Airbnb-style marketplace web app for finding Bay Are
 - Permit/open-data records are discovery records, not endorsements or booking guarantees.
 - OSM map tiles must show attribution and must not be prefetched or scraped.
 - Generated placeholder art must be visibly abstract and labeled as a fallback, not fake portfolio work.
+- Keep `public/prototype-artwork.json` ignored. Do not commit prototype artwork manifests or downloaded artwork files.
 
 ## Design Rules
 
