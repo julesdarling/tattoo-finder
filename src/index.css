@@ -412,11 +412,37 @@ select:focus-visible {
 }
 
 .card-open {
+  position: relative;
   display: block;
   width: 100%;
   padding: 0;
   overflow: hidden;
   border-radius: 18px;
+}
+
+.gallery-dots {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  z-index: 3;
+  display: inline-flex;
+  gap: 4px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  background: oklch(0.985 0.008 86 / 0.86);
+  box-shadow: 0 10px 28px -22px var(--ink);
+}
+
+.gallery-dots span {
+  width: 5px;
+  height: 5px;
+  border-radius: 999px;
+  background: var(--ink);
+  opacity: 0.32;
+}
+
+.gallery-dots span:first-child {
+  opacity: 1;
 }
 
 .media-frame {
@@ -530,9 +556,50 @@ select:focus-visible {
 .media-frame.fallback.tone-blackwork,
 .media-frame.fallback.tone-flash {
   background:
-    radial-gradient(circle at 22% 24%, var(--ink) 0 9%, transparent 9.5%),
-    repeating-linear-gradient(135deg, oklch(0.16 0.012 80 / 0.18) 0 1px, transparent 1px 11px),
-    linear-gradient(135deg, var(--yellow) 0 54%, var(--paper-raised) 54%);
+    radial-gradient(circle at var(--fallback-dot-x, 22%) var(--fallback-dot-y, 24%), var(--ink) 0 var(--fallback-dot-size, 9%), transparent calc(var(--fallback-dot-size, 9%) + 0.5%)),
+    repeating-linear-gradient(var(--fallback-line-angle, 135deg), oklch(0.16 0.012 80 / 0.18) 0 1px, transparent 1px 11px),
+    linear-gradient(var(--fallback-split-angle, 135deg), var(--yellow) 0 var(--fallback-split, 54%), var(--paper-raised) var(--fallback-split, 54%));
+}
+
+.fallback-1 {
+  --fallback-dot-x: 78%;
+  --fallback-dot-y: 26%;
+  --fallback-line-angle: 45deg;
+  --fallback-split-angle: 45deg;
+  --fallback-split: 42%;
+}
+
+.fallback-2 {
+  --fallback-dot-x: 30%;
+  --fallback-dot-y: 76%;
+  --fallback-line-angle: 90deg;
+  --fallback-split-angle: 160deg;
+  --fallback-split: 60%;
+}
+
+.fallback-3 {
+  --fallback-dot-x: 68%;
+  --fallback-dot-y: 68%;
+  --fallback-line-angle: 25deg;
+  --fallback-split-angle: 110deg;
+  --fallback-split: 48%;
+}
+
+.fallback-4 {
+  --fallback-dot-x: 18%;
+  --fallback-dot-y: 64%;
+  --fallback-line-angle: 155deg;
+  --fallback-split-angle: 20deg;
+  --fallback-split: 36%;
+}
+
+.fallback-5 {
+  --fallback-dot-x: 52%;
+  --fallback-dot-y: 28%;
+  --fallback-dot-size: 12%;
+  --fallback-line-angle: 0deg;
+  --fallback-split-angle: 80deg;
+  --fallback-split: 52%;
 }
 
 .save-heart {
@@ -860,11 +927,16 @@ select:focus-visible {
 .detail-gallery {
   display: grid;
   grid-template-columns: 1.25fr 0.9fr;
+  grid-auto-rows: minmax(112px, auto);
   gap: 10px;
 }
 
 .detail-gallery .media-frame:first-child {
   grid-row: span 2;
+}
+
+.detail-gallery .media-frame:not(:first-child) {
+  min-height: 112px;
 }
 
 .detail-actions {

@@ -13,6 +13,7 @@ type DetailSheetProps = {
 
 export function DetailSheet({ record, saved, onClose, onSave }: DetailSheetProps) {
   const instagramUrl = record.instagram || record.portfolioItems.find((item) => item.source === 'instagram')?.sourcePageUrl;
+  const galleryFrameCount = Math.max(6, Math.min(9, record.portfolioItems.length));
 
   return (
     <aside className="detail-sheet" role="dialog" aria-modal="true" aria-label={`${record.name} details`}>
@@ -28,8 +29,8 @@ export function DetailSheet({ record, saved, onClose, onSave }: DetailSheetProps
       </div>
 
       <div className="detail-gallery">
-        {[0, 1, 2].map((index) => (
-          <MediaFrame key={index} record={record} index={index} large={index === 0} />
+        {Array.from({ length: galleryFrameCount }, (_, index) => (
+          <MediaFrame key={index} record={record} index={index} large={index === 0} eager />
         ))}
       </div>
 

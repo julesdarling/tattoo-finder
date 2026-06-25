@@ -34,6 +34,7 @@ describe('ListingCard', () => {
     render(<ListingCard record={record} saved={false} onSave={onSave} onOpen={onOpen} />);
 
     expect(screen.getAllByText('Fallback preview').length).toBeGreaterThan(0);
+    expect(document.querySelectorAll('.gallery-dots span')).toHaveLength(6);
     await userEvent.click(screen.getByLabelText('Save Fallback Studio'));
     expect(onSave).toHaveBeenCalledWith('fallback-record');
   });

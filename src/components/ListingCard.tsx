@@ -15,10 +15,17 @@ type ListingCardProps = {
 };
 
 export function ListingCard({ record, saved, onSave, onOpen, index = 0, compact = false }: ListingCardProps) {
+  const galleryCount = Math.max(6, Math.min(9, record.portfolioItems.length));
+
   return (
     <article className={cn('listing-card', compact && 'compact')} style={{ '--card-index': index } as CSSProperties}>
       <button className="card-open" type="button" onClick={() => onOpen(record)}>
         <MediaFrame record={record} interactive={false} />
+        <span className="gallery-dots" aria-hidden="true">
+          {Array.from({ length: Math.min(galleryCount, 6) }, (_, dotIndex) => (
+            <span key={dotIndex} />
+          ))}
+        </span>
       </button>
       <button
         className={cn('save-heart', saved && 'is-saved')}

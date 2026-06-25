@@ -1,4 +1,5 @@
 import { ExternalLink, Instagram } from 'lucide-react';
+import { useState } from 'react';
 import type { TattooRecord } from '../lib/schema';
 
 type MediaFrameProps = {
@@ -6,16 +7,29 @@ type MediaFrameProps = {
   index?: number;
   large?: boolean;
   interactive?: boolean;
+  eager?: boolean;
 };
 
-export function MediaFrame({ record, index = 0, large = false, interactive = true }: MediaFrameProps) {
-  const item = record.portfolioItems[index % Math.max(record.portfolioItems.length, 1)];
-  const fallback = record.portfolioImages[index % Math.max(record.portfolioImages.length, 1)];
+export function MediaFrame({ record, index = 0, large = false, interactive = true, eager = false }: MediaFrameProps) {
+  const [imageFailed, setImageFailed] = useState(false);
+  const item = record.portfolioItems[index];
+  const fallbackIndex = Math.max(index - record.portfolioItems.length, 0);
+  const fallback = record.portfolioImages[fallbackIndex % Math.max(record.portfolioImages.length, 1)];
+  const fallbackTone = fallback?.tone || fallbackTones[fallbackIndex % fallbackTones.length];
+  const className = [
+    'media-frame',
+    'fallback',
+    large ? 'large' : '',
+    `tone-${fallbackTone}`,
+    `fallback-${fallbackIndex % fallbackTones.length}`,
+  ]
+    .filter(Boolean)
+    .join(' ');
 
-  if (item?.displayMode === 'remoteImage' && item.thumbnailUrl) {
+  if (item?.displayMode === 'remoteImage' && item.thumbnailUrl && !imageFailed) {
     return (
       <figure className={large ? 'media-frame large' : 'media-frame'}>
-        <img src={item.thumbnailUrl} alt={item.alt} loading="lazy" />
+        <img src={item.thumbnailUrl} alt={item.alt} loading={eager ? 'eager' : 'lazy'} onError={() => setImageFailed(true)} />
         <figcaption>{item.rightsStatus.replace(/_/g, ' ')}</figcaption>
       </figure>
     );
@@ -47,8 +61,10 @@ export function MediaFrame({ record, index = 0, large = false, interactive = tru
   }
 
   return (
-    <div className={large ? `media-frame fallback large tone-${fallback?.tone || 'flash'}` : `media-frame fallback tone-${fallback?.tone || 'flash'}`}>
+    <div className={className} role="img" aria-label={fallback?.alt || `${record.name} fallback visual ${fallbackIndex + 1}`}>
       <span>Fallback preview</span>
     </div>
   );
 }
+
+const fallbackTones = ['flash', 'linework', 'blackwork', 'lettering', 'studio', 'color'];
