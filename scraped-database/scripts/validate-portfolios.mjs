@@ -24,14 +24,14 @@ const requiredFields = [
 
 const errors = [];
 const ids = new Set();
-const originalIds = new Set(extractOriginalIds(await readFile(path.join(dbDir, 'original-src/data/records.ts'), 'utf8')));
+const auditedRecordIds = new Set((audit.records || []).map((entry) => entry.recordId));
 
 if (records.length !== 471) {
   errors.push(`Expected 471 records, found ${records.length}.`);
 }
 
 for (const record of records) {
-  if (!originalIds.has(record.id)) errors.push(`Unexpected or changed record id: ${record.id}`);
+  if (!auditedRecordIds.has(record.id)) errors.push(`Record id is missing from portfolio audit: ${record.id}`);
   if (!Array.isArray(record.portfolioItems)) errors.push(`${record.id} is missing portfolioItems array.`);
 
   for (const item of record.portfolioItems || []) {
@@ -48,6 +48,20 @@ for (const record of records) {
     }
     if (item.source === 'instagram' && !isAllowedInstagramUrl(item.sourcePageUrl)) {
       errors.push(`${record.id}/${item.id} has invalid Instagram source URL: ${item.sourcePageUrl}`);
+    }
+    if (item.source === 'instagram' && (item.mediaUrl || item.thumbnailUrl)) {
+      errors.push(`${record.id}/${item.id} Instagram item must not store media URLs.`);
+    }
+    if (item.source === 'instagram' && !['officialEmbed', 'externalLink'].includes(item.displayMode)) {
+      errors.push(`${record.id}/${item.id} Instagram displayMode must be officialEmbed or externalLink.`);
+    }
+    if (item.displayMode === 'remoteImage') {
+      if (item.source !== 'officialWebsite' || item.mediaType !== 'image' || item.rightsStatus !== 'first_party_remote_reference') {
+        errors.push(`${record.id}/${item.id} remoteImage must be an audited first-party website image.`);
+      }
+      if (!item.mediaUrl || !item.thumbnailUrl) {
+        errors.push(`${record.id}/${item.id} remoteImage requires mediaUrl and thumbnailUrl.`);
+      }
     }
     if (item.source === 'officialWebsite' && item.mediaUrl) {
       const auditRecord = audit.records.find((entry) => entry.recordId === record.id);
@@ -81,12 +95,6 @@ if (errors.length) {
 }
 
 console.log(JSON.stringify({ status: 'ok', summary }, null, 2));
-
-function extractOriginalIds(source) {
-  const ids = [...source.matchAll(/"id":\s*"([^"]+)"/g)].map((match) => match[1]);
-  if (!ids.length) throw new Error('Could not read original record ids.');
-  return ids;
-}
 
 function isHttps(rawUrl) {
   try {
@@ -135,7 +143,7 @@ async function findLocalMediaFiles(root) {
   const found = [];
   async function walk(dir) {
     for (const entry of await readdir(dir, { withFileTypes: true })) {
-      if (entry.name === '.http-cache') continue;
+      if (['.http-cache', 'original-src'].includes(entry.name)) continue;
       const fullPath = path.join(dir, entry.name);
       if (entry.isDirectory()) await walk(fullPath);
       if (entry.isFile() && /\.(avif|gif|jpe?g|png|webp)$/i.test(entry.name)) {
