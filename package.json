@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "type": "module",
-  "homepage": "https://juleshaggard.github.io/tattoo-finder/",
+  "homepage": "https://julesdarling.github.io/tattoo-finder/",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "tsc --noEmit -p tsconfig.app.json && tsc --noEmit -p tsconfig.node.json && vite build",

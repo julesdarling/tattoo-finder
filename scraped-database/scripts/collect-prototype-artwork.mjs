@@ -12,7 +12,7 @@ const recordsPath = path.join(dbDir, 'records.json');
 const outputPath = path.join(rootDir, 'public', 'prototype-artwork.json');
 
 const COLLECTED_AT = new Date().toISOString().slice(0, 10);
-const USER_AGENT = 'TattooFinderPrototype/1.0 (+https://github.com/juleshaggard/tattoo-finder)';
+const USER_AGENT = 'TattooFinderPrototype/1.0 (+https://github.com/julesdarling/tattoo-finder)';
 const MAX_IMAGES_PER_RECORD = Number(process.env.PROTOTYPE_MAX_IMAGES_PER_RECORD || 12);
 const MIN_IMAGES_PER_RECORD = Number(process.env.PROTOTYPE_MIN_IMAGES_PER_RECORD || 6);
 const MAX_PAGES_PER_RECORD = Number(process.env.PROTOTYPE_MAX_PAGES_PER_RECORD || 10);

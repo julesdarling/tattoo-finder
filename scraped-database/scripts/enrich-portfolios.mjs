@@ -13,7 +13,7 @@ const rejectionsPath = path.join(dbDir, 'portfolio-rejections.json');
 const cacheDir = path.join(dbDir, '.http-cache');
 
 const COLLECTED_AT = new Date().toISOString().slice(0, 10);
-const USER_AGENT = 'TattooFinderBot/1.0 (+https://github.com/juleshaggard/tattoo-finder)';
+const USER_AGENT = 'TattooFinderBot/1.0 (+https://github.com/julesdarling/tattoo-finder)';
 const MAX_ITEMS_PER_RECORD = Number(process.env.PORTFOLIO_ITEMS_PER_RECORD || 6);
 const MIN_REQUEST_INTERVAL_MS = Number(process.env.PORTFOLIO_REQUEST_DELAY_MS || 900);
 const MAX_PAGES_PER_RECORD = Number(process.env.PORTFOLIO_MAX_PAGES_PER_RECORD || 12);
